@@ -1,0 +1,42 @@
+<keyboard version="1">
+<style>
+  font-size:18;
+  background-color:black;
+  cell-color:lightgrey;
+  image:bottom;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="images/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" operation="speak" />
+  <button text="No" style="cell-color:white" image="images/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Hello" image="images/hello.svg" />
+  <button text="I want to talk to you" image="images/serene_man.svg" />
+  <button text="Chatting" image="images/excited_lady.svg" link="chatting/index.kbml" />
+  <button text="Questions" image="images/how.svg" link="chatting/index.kbml" style="cell-color:orange;"/>
+  <button text="Food" image="images/food.svg" style="cell-color:yellow;" link="chatting/index.kbml" />
+</row>
+<row>
+  <button text="I" image="images/good_person.svg" style="cell-color:goldenrod" />
+  <button text="People" image="images/assembly.svg" style="cell-color:goldenrod" />
+  <button text="Personal Care" image="images/shower_1_,_to.svg" style="cell-color:pink" link="chatting/index.kbml" />
+  <button text="Little Words" image="images/little.svg" style="cell-color:lime" link="chatting/index.kbml" />
+  <button text="My Day" image="images/school.svg" style="cell-color:yellow" link="chatting/index.kbml" />
+</row>
+<row>
+  <button text="Action Words" image="images/work_,_to.svg" style="cell-color:hotpink" />
+  <button text="go" image="images/traffic_lights.svg" style="cell-color:hotpink" />
+  <button text="want" image="images/fist.svg" style="cell-color:hotpink" link="chatting/index.kbml" />
+  <button text="Describing" image="images/shapesorter.svg" style="cell-color:cyan" link="chatting/index.kbml" />
+  <button text="Things" image="images/dining_table.svg" style="cell-color:yellow" link="chatting/index.kbml" />
+</row>
+<row>
+  <button text="Clear" style="font-size:28;cell-color:powderblue" operation="clear"/>
+  <button text="Time" image="images/clock.svg" style="color:white;cell-color:blue" link="time/index.kbml"/>
+  <button text="Places" say="places" image="images/Earth.svg" style="color:white;cell-color:purple" link="places/index.kbml"/>
+  <button text="Leisure" image="images/ball_beach.svg" style="cell-color:cornflowerblue" link="leisure/index.kbml"/>
+  <button text="Delete Word" image="images/backwards.svg" style="cell-color:powderblue" operation="delete"/>
+</row>
+</keyboard>
