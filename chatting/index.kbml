@@ -1,40 +1,42 @@
 <keyboard version="1">
 <style>
   font-size:18;
-  background-color :blue;
-  cell-color:orange
+  background-color:black;
+  cell-color:lightgrey;
+  image:top;
 </style>  
 <row>
-  <button text="Yes"/>
-  <input colspan="3"/>
-  <button text="No"/>
+  <button text="Yes" style="cell-color:white" image="images/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" operation="speak" />
+  <button text="No" style="cell-color:white" image="images/mistake_no_wrong.svg"/>
 </row>
 <row>
-  <button text="Top Page" style="font-size:22"/>
-  <button text="About Me" style="cell-color:#00FF00" />
-  <button text="WML"/>
-  <button text="I can't find what I want to say" style="color:purple" operation="speak" />
-  <button text="bye" style="color:purple" operation="speak" />
+  <button text="Top Page" image="images-all/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
+  <button text="About Me" image="chatting/images/good_person.svg" />
+  <button text="WML" image="chatting/images/second_3.svg" />
+  <button text="I can't find what I want to say" />
+  <button text="bye" image="chatting/images/exit_door_,_to.svg" />
 </row>
 <row>
-  <button text="I'm fine" style="font-size:22"/>
-  <button text="ok" style="cell-color:#00FF00" />
-  <button text="WML"/>
-  <button text="I'm not so good" style="color:purple" operation="speak" />
-  <button text="please" style="color:purple" operation="speak" />
+  <button text="I'm fine" image="chatting/images/visitor_1a.svg" />
+  <button text="ok" image="chatting/images/good.svg" />
+  <button text="I'm not so good" image="chatting/images/stomach_ache.svg" />
+  <button text="please" />
+  <button text="thank you" image="chatting/images/great.svg"/>
 </row>
 <row>
-  <button text="sorry" style="font-size:22"/>
-  <button text="excuse me" style="cell-color:#00FF00" />
+  <button text="sorry" />
+  <button text="excuse me" image="chatting/images/sneeze_cold.svg"/>
   <button text="maybe"/>
-  <button text="really" style="color:purple" operation="speak" />
-  <button text="I don't know" style="color:purple" operation="speak" />
+  <button text="really" image="chatting/images/laughing_man.svg"/>
+  <button text="I don't know" image="chatting/images/why.svg"/>
 </row>
 <row>
-  <button text="My stories" style="font-size:22"/>
-  <button text="I love you" style="cell-color:#00FF00" />
-  <button text="but"/>
-  <button text="Ouch" style="color:purple" operation="speak" />
-  <button text="so" style="color:purple" operation="speak" />
+  <button text="My stories" image="chatting/images/funny_laugh.svg" style="cell-color:pink"/>
+  <button text="I love you" image="chatting/images/candy_hearts.svg"/>
+  <button text="but" style="cell-color:orchid"/>
+  <button text="Ouch" image="chatting/images/cut.svg" />
+  <button text="so" />
 </row>
 </keyboard>

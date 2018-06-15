@@ -3,7 +3,6 @@
   font-size:18;
   background-color:black;
   cell-color:lightgrey;
-  image:bottom;
 </style>  
 <row>
   <button text="Yes" style="cell-color:white" image="images/correct.svg"/>
