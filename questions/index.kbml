@@ -1,0 +1,42 @@
+<keyboard version="1">
+<style>
+  font-size:18;
+  background-color:black;
+  cell-color:orange;
+  image:top;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" operation="speak" />
+  <button text="No" style="cell-color:white" image="/images/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images-all/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
+  <button text="Questions" image="/images/how.svg" />
+  <button text="why" image="/chatting/images/why.svg" />
+  <button text="when" />
+  <button text="could" />
+</row>
+<row>
+  <button text="what" image="images/what.svg" />
+  <button text="who" image="/chatting/images/good.svg" />
+  <button text="where" image="/chatting/images/stomach_ache.svg" />
+  <button text="which" />
+  <button text="would" />
+</row>
+<row>
+  <button text="how" />
+  <button text="Can I see that?" image="/chatting/images/sneeze_cold.svg"/>
+  <button text="How much?"/>
+  <button />
+  <button text="should"/>
+</row>
+<row>
+  <button text="How are you?" image="/chatting/images/funny_laugh.svg" style="cell-color:pink"/>
+  <button text="What have you been doing?" image="/chatting/images/candy_hearts.svg"/>
+  <button text="What do you think?" style="cell-color:orchid"/>
+  <button text="What's next?" image="/chatting/images/cut.svg" />
+  <button text="What's that?" />
+</row>
+</keyboard>

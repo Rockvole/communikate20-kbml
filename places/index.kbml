@@ -13,28 +13,28 @@
   <button text="Top Page" style="font-size:22"/>
   <button text="About Me" style="cell-color:#00FF00" />
   <button text="WML"/>
-  <button text="I can't find what I want to say" style="color:purple" operation="speak" />
-  <button text="bye" style="color:purple" operation="speak" />
+  <button text="I can't find what I want to say" />
+  <button text="bye" />
 </row>
 <row>
-  <button text="I'm fine" style="font-size:22"/>
-  <button text="ok" style="cell-color:#00FF00" />
+  <button text="I'm fine"/>
+  <button text="ok" />
   <button text="WML"/>
-  <button text="I'm not so good" style="color:purple" operation="speak" />
-  <button text="please" style="color:purple" operation="speak" />
+  <button text="I'm not so good" />
+  <button text="please" />
 </row>
 <row>
   <button text="sorry" style="font-size:22"/>
-  <button text="excuse me" style="cell-color:#00FF00" />
-  <button text="maybe" link="chatting/index.kbml" image="images/me.png"/>
-  <button text="really" style="color:purple" operation="speak" />
-  <button text="I don't know" style="color:purple" operation="speak" />
+  <button text="excuse me" />
+  <button text="maybe" link="/chatting/index.kbml" />
+  <button text="really" />
+  <button text="I don't know" />
 </row>
 <row>
-  <button text="My stories" style="font-size:22"/>
-  <button text="I love you" style="cell-color:#00FF00" />
-  <button text="but" link="chatting/index.kbml" image="images/me.png"/>
-  <button text="Ouch" style="color:purple" operation="speak" />
-  <button text="so" style="color:purple" operation="speak" />
+  <button text="My stories" />
+  <button text="I love you" />
+  <button text="but" link="/chatting/index.kbml"/>
+  <button text="Ouch" />
+  <button text="so" />
 </row>
 </keyboard>
