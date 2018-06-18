@@ -10,7 +10,7 @@
   <button text="I want to talk to you" image="images/serene_man.svg" />
   <button text="Chatting" image="images/excited_lady.svg" link="chatting/index.kbml" />
   <button text="Questions" image="images/how.svg" link="questions/index.kbml" style="cell-color:orange;"/>
-  <button text="Food" image="images/food.svg" style="cell-color:yellow;" link="chatting/index.kbml" />
+  <button text="Food" image="images/food.svg" style="cell-color:yellow;" link="food/index.kbml" />
 </row>
 <row>
   <button text="I" image="images/good_person.svg" style="cell-color:goldenrod" />
