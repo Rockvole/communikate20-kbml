@@ -1,10 +1,4 @@
 <keyboard version="1">
-<style>
-  font-size:18;
-  background-color:black;
-  cell-color:lightgrey;
-  image:top;
-</style>  
 <row>
   <button text="Yes" style="cell-color:white" image="/images/correct.svg"/>
   <input colspan="2" style="cell-color:white"/>

@@ -1,9 +1,4 @@
 <keyboard version="1">
-<style>
-  font-size:18;
-  background-color :blue;
-  cell-color:orange
-</style>  
 <row>
   <button text="Yes"/>
   <input colspan="3"/>
