@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:goldenrod;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" operation="speak" />
+  <button text="No" style="cell-color:white" image="/images/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images-all/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
+  <button text="people" image="images/assembly.svg" />
+  <button text="friends" image="images/care_assistant_1a.svg" />
+  <button text="School/college/work mates" image="images/class_room.svg" />
+  <button text="Support staff" image="images/care_assistant_2a.svg" />
+</row>
+<row>
+  <button text="I'm" image="/images/good_person.svg" />
+  <button text="me" image="/images/good_person.svg" />
+  <button text="my" image="/images/good_person.svg" />
+  <button text="mine" image="/images/good_person.svg" />
+  <button text="Education staff" image="images/teacher_2a.svg" />
+</row>
+<row>
+  <button text="we" image="images/assembly.svg" />
+  <button text="they" image="images/assembly.svg" />
+  <button text="boy" image="images/handsome.svg" />
+  <button text="girl" image="images/hair_ponytail.svg" />
+  <button text="Job" image="images/family_2.svg" />
+</row>
+<row>
+  <button text="it" image="images/bottom.svg" />
+  <button text="you" image="/images-all/point_,_to.svg" />
+  <button text="he" image="images/handsome.svg" />
+  <button text="she" image="images/hair_ponytail.svg" />
+  <button text="Family" image="images/family.svg" />
+</row>
+</keyboard>
