@@ -1,5 +1,6 @@
 <keyboard version="1">
 <style>
+  font-size:16;
   cell-color:pink;
 </style>  
 <row>
