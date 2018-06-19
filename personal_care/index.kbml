@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:pink;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" operation="speak" />
+  <button text="No" style="cell-color:white" image="/images/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images-all/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
+  <button text="I need the toilet" image="images/need_toilet.svg" />
+  <button text="I need some help" image="images/care_assistant_2b.svg" />
+  <button text="I don't feel well" image="/chatting/images/stomach_ache.svg" style="cell-color:yellow" />
+  <button text="body parts" image="images/body_outline.svg" style="cell-color:yellow" />
+</row>
+<row>
+  <button text="clothes" image="images/clothes_generic.svg" style="cell-color:yellow" />
+  <button text="I want to chill out on my bed" image="images/single_bed.svg" />
+  <button text="I'd like a shave" image="images/shave_,_to.svg" />
+  <button text="I need my medication" image="images/medicine.svg" />
+  <button text="Please can you clean my glasses" image="images/glasses.svg" />
+</row>
+<row>
+  <button text="Can you do my nails please" image="images/nail_care.svg" />
+  <button text="I'd like a shower" image="images/shower_1_,_to.svg" />
+  <button text="I'd love a bath" image="images/clothes_generic.svg" />
+  <button text="I've got a problem with my" image="images/wheelchair_and_switch_mount.svg" style="cell-color:yellow" />
+  <button text="toiletries" image="images/toilet_roll.svg" style="cell-color:yellow" />
+</row>
+<row>
+  <button text="I need to get changed" image="images/undress_,_to.svg"/>
+  <button />
+  <button text="Can you do my hair please" image="images/dry_hair_2_,_to.svg" />
+  <button />
+  <button />
+</row>
+</keyboard>

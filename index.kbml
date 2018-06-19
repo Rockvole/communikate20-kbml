@@ -15,7 +15,7 @@
 <row>
   <button text="I" image="images/good_person.svg" style="cell-color:goldenrod" />
   <button text="People" image="people/images/assembly.svg" style="cell-color:goldenrod" link="people"/>
-  <button text="Personal Care" image="images/shower_1_,_to.svg" style="cell-color:pink" link="chatting" />
+  <button text="Personal Care" image="images/shower_1_,_to.svg" style="cell-color:pink" link="personal_care" />
   <button text="Little Words" image="images/little.svg" style="cell-color:lime" link="chatting" />
   <button text="My Day" image="images/school.svg" style="cell-color:yellow" link="chatting" />
 </row>
@@ -27,7 +27,7 @@
   <button text="Things" image="images/dining_table.svg" style="cell-color:yellow" link="chatting" />
 </row>
 <row>
-  <button text="Clear" style="font-size:28;cell-color:powderblue" operation="clear"/>
+  <button text="Clear" style="font-size:28;font-weight:bold;cell-color:powderblue" operation="clear"/>
   <button text="Time" image="images/clock.svg" style="color:white;cell-color:blue" link="time"/>
   <button text="Places" say="places" image="images/Earth.svg" style="color:white;cell-color:purple" link="places"/>
   <button text="Leisure" image="images/ball_beach.svg" style="cell-color:cornflowerblue" link="leisure"/>
