@@ -34,7 +34,7 @@
   <button text="some" image="/images-all/spotty.svg"/>
   <button text="with" image="images/some.svg"/>
   <button text="and" style="cell-color:pink;font-size:28" />
-  <button text="at" style="cell-color:pink;font-size:28" />
+  <button text="at" image="images/at_key.svg" style="cell-color:pink;" />
   <button text="the" style="cell-color:pink;font-size:28" />
 </row>
 </keyboard>
