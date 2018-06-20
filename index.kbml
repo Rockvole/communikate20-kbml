@@ -20,7 +20,7 @@
   <button text="My Day" image="images/school.svg" style="cell-color:yellow" link="my_day" />
 </row>
 <row>
-  <button text="Action Words" image="images/work_,_to.svg" style="cell-color:hotpink" />
+  <button text="Action Words" image="images/work_,_to.svg" style="cell-color:hotpink" link="action_words" />
   <button text="go" image="images/traffic_lights.svg" style="cell-color:hotpink" />
   <button text="want" image="images/fist.svg" style="cell-color:hotpink" link="chatting" />
   <button text="Describing" image="images/shapesorter.svg" style="cell-color:cyan" link="chatting" />

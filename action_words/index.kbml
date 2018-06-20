@@ -1,0 +1,40 @@
+<keyboard version="1">
+<style>
+  font-size:16;
+  cell-color:hotpink;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" operation="speak" />
+  <button text="No" style="cell-color:white" image="/images/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images-all/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
+  <button text="do" image="images/fist.svg" />
+  <button text="help" image="images/care_assistant_2b.svg" />
+  <button text="look" image="images/eyes_green.svg" />
+  <button text="see" image="images/eyes_blue.svg" />
+</row>
+<row>
+  <button text="stop" image="images/traffic_lights.svg" />
+  <button text="come" />
+  <button text="get" image="images/car_toy.svg" />
+  <button text="give" image="images/sprinkle_,_to.svg" />
+  <button text="think" />
+</row>
+<row>
+  <button text="like" image="images/great.svg" />
+  <button text="listen" image="images/ear.svg" />
+  <button text="make" image="/images/work_,_to.svg" />
+  <button text="put" />
+  <button text="tell" image="images/man_-_face.svg" />
+</row>
+<row>
+  <button text="take" image="images/smooth.svg"/>
+  <button text="turn" image="images/around.svg"/>
+  <button text="open" image="images/open_2.svg" />
+  <button text="close" image="images/closed.svg" />
+  <button text="More action words" image="/images/work_,_to.svg" />
+</row>
+</keyboard>
