@@ -1,35 +1,39 @@
 <keyboard version="1">
+<style>
+  cell-color:cornflowerblue;
+</style>
 <row>
-  <button text="Yes"/>
-  <input colspan="3"/>
-  <button text="No"/>
+  <button text="Yes" style="cell-color:white;color:black;" image="/images/correct.svg"/>
+  <input colspan="2" style="cell-color:white;color:black;"/>
+  <button text="Speak" style="font-size:22;cell-color:white;color:black;" operation="speak" />
+  <button text="No" style="cell-color:white;color:black;" image="/images/mistake_no_wrong.svg"/>
 </row>
 <row>
-  <button text="Top Page"/>
-  <button text="About Me" />
-  <button text="WML" />
-  <button text="I can't find what I want to say" />
-  <button text="bye" />
+  <button text="Top Page" image="/images-all/communication_aid_2.svg" style="cell-color:yellow;" operation="home"/>
+  <button text="My pictures" image="images/camera_compact.svg"/>
+  <button text="Phone" image="images/mobile_phone.svg" />
+  <button text="MP3 player" image="images/iPod.svg" />
+  <button text="Computer control" image="/images-all/computer_monitor.svg" style="cell-color:red" />
 </row>
 <row>
-  <button text="I'm fine" />
-  <button text="ok" />
-  <button text="WML" />
-  <button text="I'm not so good" />
-  <button text="please" />
+  <button text="I want" image="/images/good_person.svg" />
+  <button text="DVD" />
+  <button text="TV" image="images/switch_on_television_,_to.svg" />
+  <button />
+  <button text="Volume Up" style="cell-color:lightgrey;"/>
 </row>
 <row>
-  <button text="sorry" />
-  <button text="excuse me" />
-  <button text="maybe" link="/chatting/index.kbml" />
-  <button text="really" />
-  <button text="I don't know" />
+  <button text="ECU" image="images/remote_control.svg" />
+  <button />
+  <button />
+  <button />
+  <button text="Volume Down" style="cell-color:lightgrey;" />
 </row>
 <row>
-  <button text="My stories" />
-  <button text="I love you" />
-  <button text="but" link="/chatting/index.kbml" />
-  <button text="Ouch" />
-  <button text="so" />
+  <button text="My stories" image="images/funny_laugh.svg"/>
+  <button text="Google" />
+  <button text="Youtube" />
+  <button text="Twitter" />
+  <button />
 </row>
 </keyboard>
