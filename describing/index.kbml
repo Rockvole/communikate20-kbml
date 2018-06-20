@@ -1,0 +1,39 @@
+<keyboard version="1">
+<style>
+  cell-color:cyan;
+</style>  
+<row>
+  <button text="Yes" style="cell-color:white" image="/images/correct.svg"/>
+  <input colspan="2" style="cell-color:white"/>
+  <button text="Speak" style="font-size:22;cell-color:white" operation="speak" />
+  <button text="No" style="cell-color:white" image="/images/mistake_no_wrong.svg"/>
+</row>
+<row>
+  <button text="Top Page" image="/images-all/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
+  <button text="feelings" image="images/sad_man.svg" />
+  <button text="colours" image="images/colour.svg" />
+  <button text="shapes" image="images/shapes.svg" />
+  <button text="opposites" image="images/opposite.svg" />
+</row>
+<row>
+  <button text="all" image="/images-all/spotty.svg" style="cell-color:yellow" />
+  <button text="more" image="images/more.svg" />
+  <button text="nice" image="images/rainbow.svg" />
+  <button text="wrong" image="images/wrong_thought.svg" />
+  <button text="right" image="images/correct_thought.svg" />
+</row>
+<row>
+  <button text="finished" image="images/finish.svg" />
+  <button text="pretty" image="images/desiring_lady.svg" />
+  <button text="mean" image="images/jealous_man.svg" />
+  <button text="different" image="images/beside_next_to.svg" />
+  <button text="same" image="images/same.svg" />
+</row>
+<row>
+  <button text="problem" image="images/hard.svg"/>
+  <button text="important" image="images/star.svg"/>
+  <button text="because" style="cell-color:pink;font-size:28" />
+  <button text="idea" image="images/lightbulb.svg"/>
+  <button text="favorite" image="images/favourite.svg"/>
+</row>
+</keyboard>
