@@ -1,35 +1,40 @@
 <keyboard version="1">
+<style>
+  cell-color:dodgerblue;
+  color:white;
+</style>  
 <row>
-  <button text="Yes"/>
-  <input colspan="3"/>
-  <button text="No"/>
+  <button text="Yes" style="cell-color:white;color:black;" image="/images/correct.svg"/>
+  <input colspan="2" style="cell-color:white;color:black;"/>
+  <button text="Speak" style="font-size:22;cell-color:white;color:black;" operation="speak" />
+  <button text="No" style="cell-color:white;color:black;" image="/images/mistake_no_wrong.svg"/>
 </row>
 <row>
-  <button text="Top Page" style="font-size:22"/>
-  <button text="About Me" style="cell-color:#00FF00" />
-  <button text="WML" link="/chatting/index.kbml"/>
-  <button text="I can't find what I want to say" style="color:purple" operation="speak" />
-  <button text="bye" style="color:purple" operation="speak" />
+  <button text="Top Page" image="/images-all/communication_aid_2.svg" style="cell-color:yellow;color:black;" operation="home"/>
+  <button text="time" image="images/clock.svg" />
+  <button text="day" image="images/day.svg"/>
+  <button text="months" image="images/calendar_month.svg" />
+  <button text="special days" image="images/calendar_month.svg" />
 </row>
 <row>
-  <button text="I'm fine" style="font-size:22"/>
-  <button text="ok" style="cell-color:#00FF00" />
-  <button text="WML" link="/chatting/index.kbml"/>
-  <button text="I'm not so good" style="color:purple" operation="speak" />
-  <button text="please" style="color:purple" operation="speak" />
+  <button text="yesterday" image="images/yesterday.svg" />
+  <button text="today" image="images/today.svg" />
+  <button text="tomorrow" image="images/tomorrow.svg" />
+  <button text="later" image="images/future.svg" />
+  <button text="late" image="images/future.svg" />
 </row>
 <row>
-  <button text="sorry" style="font-size:22"/>
-  <button text="excuse me" style="cell-color:#00FF00" />
-  <button text="maybe" link="/chatting/index.kbml"/>
-  <button text="really" style="color:purple" />
-  <button text="I don't know" style="color:purple" />
+  <button text="morning" image="images/morning.svg" />
+  <button text="afternoon" image="images/afternoon.svg" />
+  <button text="evening" image="images/night.svg" />
+  <button text="now" image="images/now.svg" />
+  <button text="never" image="images/clock.svg" />
 </row>
 <row>
-  <button text="My stories" style="font-size:22"/>
-  <button text="I love you" style="cell-color:#00FF00" />
-  <button text="but" link="/chatting/index.kbml"/>
-  <button text="Ouch" style="color:purple" />
-  <button text="so" style="color:purple" />
+  <button text="again" />
+  <button text="ready" image="images/ready.svg" />
+  <button text="hurry" image="images/ready.svg" />
+  <button text="before" image="images/first.svg" />
+  <button text="after" image="images/last.svg" />
 </row>
 </keyboard>
