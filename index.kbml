@@ -24,7 +24,7 @@
   <button text="go" image="images/traffic_lights.svg" style="cell-color:hotpink" />
   <button text="want" image="images/fist.svg" style="cell-color:hotpink" link="chatting" />
   <button text="Describing" image="images/shapesorter.svg" style="cell-color:cyan" link="describing" />
-  <button text="Things" image="images/dining_table.svg" style="cell-color:yellow" link="chatting" />
+  <button text="Things" image="things/images/dining_table.svg" style="cell-color:yellow" link="things" />
 </row>
 <row>
   <button text="Clear" style="font-size:28;font-weight:bold;cell-color:powderblue" operation="clear"/>

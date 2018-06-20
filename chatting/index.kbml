@@ -15,7 +15,7 @@
 <row>
   <button text="I'm fine" image="images/visitor_1a.svg" />
   <button text="ok" image="images/good.svg" />
-  <button text="I'm not so good" image="images/stomach_ache.svg" />
+  <button text="I'm not so good" image="/images-all/stomach_ache.svg" />
   <button text="please" />
   <button text="thank you" image="images/great.svg"/>
 </row>
