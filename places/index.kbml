@@ -1,35 +1,40 @@
 <keyboard version="1">
+<style>
+  cell-color:purple;
+  color:white;
+</style>
 <row>
-  <button text="Yes"/>
-  <input colspan="3"/>
-  <button text="No"/>
+  <button text="Yes" style="cell-color:white;color:black;" image="/images/correct.svg"/>
+  <input colspan="2" style="cell-color:white;color:black;"/>
+  <button text="Speak" style="font-size:22;cell-color:white;color:black;" operation="speak" />
+  <button text="No" style="cell-color:white;color:black;" image="/images/mistake_no_wrong.svg"/>
 </row>
 <row>
-  <button text="Top Page" style="font-size:22"/>
-  <button text="About Me" style="cell-color:#00FF00" />
-  <button text="WML"/>
-  <button text="I can't find what I want to say" />
-  <button text="bye" />
+  <button text="Top Page" image="/images-all/communication_aid_2.svg" style="cell-color:yellow;color:black;" operation="home"/>
+  <button text="place" image="images/Earth.svg" />
+  <button text="My day places" image="/images/school.svg" />
+  <button text="shops" image="images/shop_2.svg" />
+  <button text="places outside" image="images/outside.svg" />
 </row>
 <row>
-  <button text="I'm fine"/>
-  <button text="ok" />
-  <button text="WML"/>
-  <button text="I'm not so good" />
-  <button text="please" />
+  <button text="work" image="/images-all/work_,_to.svg" />
+  <button text="School / college" image="images/school_1.svg" />
+  <button text="town" image="images/house.svg" />
+  <button text="hospital" image="images/medicine.svg" />
+  <button text="airport" image="images/pilot_1b.svg" />
 </row>
 <row>
-  <button text="sorry" style="font-size:22"/>
-  <button text="excuse me" />
-  <button text="maybe" link="/chatting/index.kbml" />
-  <button text="really" />
-  <button text="I don't know" />
+  <button text="dentist" image="images/dentist_1a.svg" />
+  <button text="bank" image="/images-all/money.svg" />
+  <button text="doctors" image="images/doctor_1a.svg" />
+  <button text="pool" image="images/swim_,_to.svg" />
+  <button text="restaurant" image="images/dinner_2_people.svg" />
 </row>
 <row>
-  <button text="My stories" />
-  <button text="I love you" />
-  <button text="but" link="/chatting/index.kbml"/>
-  <button text="Ouch" />
-  <button text="so" />
+  <button text="library" image="images/bookcase.svg" />
+  <button text="pub" image="images/beer.svg" />
+  <button text="post office" image="images/post_person_1a.svg" />
+  <button text="cinema" image="images/childrens_tv.svg" />
+  <button text="home" image="images/house.svg" />
 </row>
 </keyboard>

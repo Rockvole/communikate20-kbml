@@ -23,7 +23,7 @@
   <button text="kitchen things" image="images/place_setting.svg" />
 </row>
 <row>
-  <button text="money" image="images/money.svg" />
+  <button text="money" image="/images-all/money.svg" />
   <button text="office" image="images/office_block.svg" />
   <button text="sports" image="images/swim_,_to.svg" />
   <button text="Things that help" image="images/hoist.svg" />

@@ -26,7 +26,7 @@
 <row>
   <button text="like" image="images/great.svg" />
   <button text="listen" image="images/ear.svg" />
-  <button text="make" image="/images/work_,_to.svg" />
+  <button text="make" image="/images-all/work_,_to.svg" />
   <button text="put" />
   <button text="tell" image="images/man_-_face.svg" />
 </row>
@@ -35,6 +35,6 @@
   <button text="turn" image="images/around.svg"/>
   <button text="open" image="images/open_2.svg" />
   <button text="close" image="images/closed.svg" />
-  <button text="More action words" image="/images/work_,_to.svg" />
+  <button text="More action words" image="/images-all/work_,_to.svg" />
 </row>
 </keyboard>
