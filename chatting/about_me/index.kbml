@@ -15,7 +15,7 @@
 <row>
   <button text="I live with" image="/images-all/house.svg" />
   <button text="pet" image="images/goldfish_bowl.svg" />
-  <button text="School / college" image="/images/school.svg" />
+  <button text="School / college" image="/images/building_school/school.svg" />
   <button text="email" image="images/email.svg" />
   <button text="work" image="images/group_work.svg" />
 </row>
@@ -23,7 +23,7 @@
   <button text="Communication aid" image="images/communication_aid_techspeak_32.svg" />
   <button text="music" image="images/music.svg" />
   <button text="film" image="images/comedy_tv.svg" />
-  <button text="hobby" image="/images/ball_beach.svg" />
+  <button text="hobby" image="/images/leisure_toys/ball_beach.svg" />
   <button text="TV" image="images/change_tv_channel_,_to.svg" />
 </row>
 <row>
