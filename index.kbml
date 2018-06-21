@@ -1,19 +1,19 @@
 <keyboard version="1">
 <row>
-  <button text="Yes" style="cell-color:white" image="images/correct.svg"/>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
   <input colspan="2" style="cell-color:white"/>
   <button text="Speak" style="font-size:22;cell-color:white" operation="speak" />
-  <button text="No" style="cell-color:white" image="images/mistake_no_wrong.svg"/>
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
 </row>
 <row>
-  <button text="Hello" image="images/hello.svg" />
-  <button text="I want to talk to you" image="images/serene_man.svg" />
+  <button text="Hello" image="/images/communication_conversation/hello.svg" />
+  <button text="I want to talk to you" image="/images/people_feelings/serene_man.svg" />
   <button text="Chatting" image="images/excited_lady.svg" link="chatting" />
-  <button text="Questions" image="images/how.svg" link="questions" style="cell-color:orange;"/>
+  <button text="Questions" image="/images/question/how.svg" link="questions" style="cell-color:orange;"/>
   <button text="Food" image="images/food.svg" style="cell-color:yellow;" link="food" />
 </row>
 <row>
-  <button text="I" image="images/good_person.svg" style="cell-color:goldenrod" />
+  <button text="I" image="/images/people_descriptive/good_person.svg" style="cell-color:goldenrod" />
   <button text="People" image="people/images/assembly.svg" style="cell-color:goldenrod" link="people"/>
   <button text="Personal Care" image="images/shower_1_,_to.svg" style="cell-color:pink" link="personal_care" />
   <button text="Little Words" image="/images/descriptive_quantity/little.svg" style="cell-color:lime" link="little_words" />
@@ -21,7 +21,7 @@
 </row>
 <row>
   <button text="Action Words" image="/images-all/work_,_to.svg" style="cell-color:hotpink" link="action_words" />
-  <button text="go" image="images/traffic_lights.svg" style="cell-color:hotpink" />
+  <button text="go" image="/images/transport_road/traffic_lights.svg" style="cell-color:hotpink" />
   <button text="want" image="images/fist.svg" style="cell-color:hotpink" link="chatting" />
   <button text="Describing" image="/images/leisure_toys/shapesorter.svg" style="cell-color:cyan" link="describing" />
   <button text="Things" image="things/images/dining_table.svg" style="cell-color:yellow" link="things" />

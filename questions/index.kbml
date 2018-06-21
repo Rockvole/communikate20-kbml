@@ -3,14 +3,14 @@
   cell-color:orange;
 </style>  
 <row>
-  <button text="Yes" style="cell-color:white" image="/images/correct.svg"/>
+  <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
   <input colspan="2" style="cell-color:white"/>
   <button text="Speak" style="font-size:22;cell-color:white" operation="speak" />
-  <button text="No" style="cell-color:white" image="/images/mistake_no_wrong.svg"/>
+  <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
 </row>
 <row>
   <button text="Top Page" image="/images-all/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
-  <button text="Questions" image="/images/how.svg" />
+  <button text="Questions" image="/images/question/how.svg" />
   <button text="why" image="/chatting/images/why.svg" />
   <button text="when" image="images/when.svg" />
   <button text="could" style="font-size:22;font-weight:bold;" />
@@ -24,7 +24,7 @@
 </row>
 <row>
   <button text="how" image="/images-all/how.svg" />
-  <button text="Can I see that?" image="/images/good_person.svg"/>
+  <button text="Can I see that?" image="/images/people_descriptive/good_person.svg"/>
   <button text="How much?" image="/images-all/money.svg"/>
   <button />
   <button text="should" style="font-size:22;font-weight:bold;" />

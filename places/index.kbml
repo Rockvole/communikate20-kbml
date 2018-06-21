@@ -4,10 +4,10 @@
   color:white;
 </style>
 <row>
-  <button text="Yes" style="cell-color:white;color:black;" image="/images/correct.svg"/>
+  <button text="Yes" style="cell-color:white;color:black;" image="/images/descriptive_state/correct.svg"/>
   <input colspan="2" style="cell-color:white;color:black;"/>
   <button text="Speak" style="font-size:22;cell-color:white;color:black;" operation="speak" />
-  <button text="No" style="cell-color:white;color:black;" image="/images/mistake_no_wrong.svg"/>
+  <button text="No" style="cell-color:white;color:black;" image="/images/descriptive_state/mistake_no_wrong.svg"/>
 </row>
 <row>
   <button text="Top Page" image="/images-all/communication_aid_2.svg" style="cell-color:yellow;color:black;" operation="home"/>
