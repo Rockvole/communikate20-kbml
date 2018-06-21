@@ -8,7 +8,7 @@
 <row>
   <button text="Top Page" image="/images-all/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
   <button text="About Me" image="/images/good_person.svg" link="about_me" />
-  <button text="WML" image="images/second_3.svg" />
+  <button text="WML" image="images/second_3.svg" link="WML" />
   <button text="I can't find what I want to say" />
   <button text="bye" image="images/exit_door_,_to.svg" />
 </row>
