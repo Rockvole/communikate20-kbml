@@ -10,7 +10,7 @@
 </row>
 <row>
   <button text="Top Page" image="/images-all/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
-  <button text="breakfast" image="images/breakfast_5.svg" />
+  <button text="breakfast" image="/images/food_meals/breakfast_5.svg" link="breakfast" />
   <button text="lunch" image="images/lunch_1.svg" />
   <button text="meals" image="images/dinner_hot.svg" />
   <button text="meat and fish" image="images/meat.svg" />
@@ -18,7 +18,7 @@
 <row>
   <button text="I'm hungry" image="images/hungry.svg" style="cell-color:cyan" />
   <button text="vegetables" image="images/vegetables.svg" />
-  <button text="fruit" image="images/fruit.svg" />
+  <button text="fruit" image="/images/food_fruit/fruit.svg" />
   <button text="drinks" image="images/drinks.svg" />
   <button text="fast food" image="images/takeaway_burger_and_chips.svg" />
 </row>

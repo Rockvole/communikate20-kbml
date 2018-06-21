@@ -33,7 +33,7 @@
   <button text="dont" image="/images/healthcare_body/finger.svg" style="cell-color:white"/>
   <button text="not" image="/images/mistake_no_wrong.svg" style="cell-color:white" />
   <button text="well" image="/images/healthcare_body/fist.svg" />
-  <button image="/images/people_feelings/laughing_man.svg" />
-  <button image="/images/healthcare_body/thigh.svg" />
+  <button image="/images/people_feelings/laughing_man.svg" style="image:center;"/>
+  <button image="/images/healthcare_body/thigh.svg" style="image:center;"/>
 </row>
 </keyboard>
