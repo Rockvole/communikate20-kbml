@@ -19,7 +19,7 @@
 <row>
   <button text="work" image="/images-all/work_,_to.svg" />
   <button text="School / college" image="images/school_1.svg" />
-  <button text="town" image="images/house.svg" />
+  <button text="town" image="/images-all/house.svg" />
   <button text="hospital" image="images/medicine.svg" />
   <button text="airport" image="images/pilot_1b.svg" />
 </row>
@@ -35,6 +35,6 @@
   <button text="pub" image="images/beer.svg" />
   <button text="post office" image="images/post_person_1a.svg" />
   <button text="cinema" image="images/childrens_tv.svg" />
-  <button text="home" image="images/house.svg" />
+  <button text="home" image="/images-all/house.svg" />
 </row>
 </keyboard>
