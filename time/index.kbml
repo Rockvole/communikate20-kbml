@@ -10,7 +10,7 @@
   <button text="No" style="cell-color:white;color:black;" image="/images/descriptive_state/mistake_no_wrong.svg"/>
 </row>
 <row>
-  <button text="Top Page" image="/images-all/communication_aid_2.svg" style="cell-color:yellow;color:black;" operation="home"/>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;color:black;" operation="home"/>
   <button text="time" image="images/clock.svg" />
   <button text="day" image="images/day.svg"/>
   <button text="months" image="images/calendar_month.svg" />

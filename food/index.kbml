@@ -9,9 +9,9 @@
   <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
 </row>
 <row>
-  <button text="Top Page" image="/images-all/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
   <button text="breakfast" image="/images/food_meals/breakfast_5.svg" link="breakfast" />
-  <button text="lunch" image="images/lunch_1.svg" />
+  <button text="lunch" image="/images/food_meals/lunch_1.svg" link="lunch"/>
   <button text="meals" image="images/dinner_hot.svg" />
   <button text="meat and fish" image="images/meat.svg" />
 </row>
@@ -26,7 +26,7 @@
   <button text="I'm thirsty" image="images/thirsty.svg" style="cell-color:cyan" />
   <button text="snacks/pudding" image="images/ice_cream_2.svg" />
   <button text="Sauces/ingredients" image="images/sauce_tomato.svg" />
-  <button text="salad" image="images/salad.svg" />
+  <button text="salad" image="/images/food_vegetables/salad.svg" />
   <button text="cooking words" image="images/cook_,_to.svg" style="cell-color:hotpink" />
 </row>
 <row>

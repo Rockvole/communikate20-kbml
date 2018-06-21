@@ -10,7 +10,7 @@
   <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
 </row>
 <row>
-  <button text="Top Page" image="/images-all/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
   <button text="I need the toilet" image="images/need_toilet.svg" />
   <button text="I need some help" image="images/care_assistant_2b.svg" />
   <button text="I don't feel well" image="/images-all/stomach_ache.svg" style="cell-color:yellow" />

@@ -6,7 +6,7 @@
   <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
 </row>
 <row>
-  <button text="Top Page" image="/images-all/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
   <button text="About Me" image="/images/people_descriptive/good_person.svg" link="about_me" />
   <button text="WML" image="images/second_3.svg" link="WML" />
   <button text="I can't find what I want to say" />
