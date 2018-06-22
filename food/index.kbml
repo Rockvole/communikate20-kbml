@@ -18,7 +18,7 @@
 <row>
   <button text="I'm hungry" image="images/hungry.svg" style="cell-color:cyan" />
   <button text="vegetables" image="/images/food_vegetables/vegetables.svg" link="vegetables"/>
-  <button text="fruit" image="/images/food_fruit/fruit.svg" />
+  <button text="fruit" image="/images/food_fruit/fruit.svg" link="fruit"/>
   <button text="drinks" image="images/drinks.svg" />
   <button text="fast food" image="images/takeaway_burger_and_chips.svg" />
 </row>
