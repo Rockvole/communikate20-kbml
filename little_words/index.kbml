@@ -32,7 +32,7 @@
 </row>
 <row>
   <button text="some" image="/images/descriptive_state/spotty.svg"/>
-  <button text="with" image="images/some.svg"/>
+  <button text="with" image="/images/descriptive_quantity/some.svg"/>
   <button text="and" style="cell-color:pink;font-size:28" />
   <button text="at" image="images/at_key.svg" style="cell-color:pink;" />
   <button text="the" style="cell-color:pink;font-size:28" />
