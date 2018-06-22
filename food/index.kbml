@@ -26,7 +26,7 @@
   <button text="I'm thirsty" image="/images/food_feeding/thirsty.svg" style="cell-color:cyan" />
   <button text="snacks/pudding" image="/images/food_sweets/ice_cream_2.svg" link="snacks"/>
   <button text="Sauces/ingredients" image="/images/food_ingredients/sauce_tomato.svg" link="sauces"/>
-  <button text="salad" image="/images/food_vegetables/salad.svg" />
+  <button text="salad" image="/images/food_vegetables/salad.svg" link="salad"/>
   <button text="cooking words" image="/images/kitchen_actions/cook_,_to.svg" style="cell-color:hotpink" />
 </row>
 <row>
