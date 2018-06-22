@@ -20,7 +20,7 @@
   <button text="vegetables" image="/images/food_vegetables/vegetables.svg" link="vegetables"/>
   <button text="fruit" image="/images/food_fruit/fruit.svg" link="fruit"/>
   <button text="drinks" image="images/drinks.svg" link="drinks"/>
-  <button text="fast food" image="images/takeaway_burger_and_chips.svg" />
+  <button text="fast food" image="/images/food_meals/takeaway_burger_and_chips.svg" link="fast_food"/>
 </row>
 <row>
   <button text="I'm thirsty" image="images/thirsty.svg" style="cell-color:cyan" />
