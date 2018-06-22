@@ -19,13 +19,13 @@
 <row>
   <button text="work" image="/images/tools_actions/work_,_to.svg" />
   <button text="School / college" image="/images/building_school/school_1.svg" />
-  <button text="town" image="/images-all/house.svg" />
+  <button text="town" image="/images/building_residential/house.svg" />
   <button text="hospital" image="images/medicine.svg" />
   <button text="airport" image="images/pilot_1b.svg" />
 </row>
 <row>
   <button text="dentist" image="images/dentist_1a.svg" />
-  <button text="bank" image="/images-all/money.svg" />
+  <button text="bank" image="/images/money/money.svg" />
   <button text="doctors" image="images/doctor_1a.svg" />
   <button text="pool" image="images/swim_,_to.svg" />
   <button text="restaurant" image="images/dinner_2_people.svg" />
@@ -35,6 +35,6 @@
   <button text="pub" image="images/beer.svg" />
   <button text="post office" image="images/post_person_1a.svg" />
   <button text="cinema" image="images/childrens_tv.svg" />
-  <button text="home" image="/images-all/house.svg" />
+  <button text="home" image="/images/building_residential/house.svg" />
 </row>
 </keyboard>

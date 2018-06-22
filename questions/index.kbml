@@ -25,7 +25,7 @@
 <row>
   <button text="how" image="/images/question/how.svg" />
   <button text="Can I see that?" image="/images/people_descriptive/good_person.svg"/>
-  <button text="How much?" image="/images-all/money.svg"/>
+  <button text="How much?" image="/images/money/money.svg"/>
   <button />
   <button text="should" style="font-size:22;font-weight:bold;" />
 </row>

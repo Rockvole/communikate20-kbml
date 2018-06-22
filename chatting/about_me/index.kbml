@@ -8,12 +8,12 @@
 <row>
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
   <button text="Name" image="/images/people_descriptive/good_person.svg" />
-  <button text="I live in" image="/images-all/house.svg" />
+  <button text="I live in" image="/images/building_residential/house.svg" />
   <button text="Birthday" image="images/celebrate_birthday.svg" />
   <button text="age" image="images/old_person_3.svg" />
 </row>
 <row>
-  <button text="I live with" image="/images-all/house.svg" />
+  <button text="I live with" image="/images/building_residential/house.svg" />
   <button text="pet" image="images/goldfish_bowl.svg" />
   <button text="School / college" image="/images/building_school/school.svg" />
   <button text="email" image="images/email.svg" />
@@ -28,7 +28,7 @@
 </row>
 <row>
   <button text="disability" image="images/disabled_sign.svg" />
-  <button text="mobile" image="/images-all/mobile_phone.svg"/>
+  <button text="mobile" image="/images/electrical_phone/mobile_phone.svg"/>
   <button text="Tell me about you" image="/images/people_feelings/serene_man.svg" style="cell-color:orange"/>
   <button />
   <button />

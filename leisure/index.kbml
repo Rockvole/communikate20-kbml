@@ -11,7 +11,7 @@
 <row>
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;" operation="home"/>
   <button text="My pictures" image="images/camera_compact.svg"/>
-  <button text="Phone" image="/images-all/mobile_phone.svg" />
+  <button text="Phone" image="/images/electrical_phone/mobile_phone.svg" />
   <button text="MP3 player" image="images/iPod.svg" />
   <button text="Computer control" image="/images/electrical_computer/computer_monitor.svg" style="cell-color:red" />
 </row>
