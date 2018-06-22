@@ -24,7 +24,7 @@
 </row>
 <row>
   <button text="I'm thirsty" image="images/thirsty.svg" style="cell-color:cyan" />
-  <button text="snacks/pudding" image="images/ice_cream_2.svg" />
+  <button text="snacks/pudding" image="/images/food_sweets/ice_cream_2.svg" link="snacks"/>
   <button text="Sauces/ingredients" image="images/sauce_tomato.svg" />
   <button text="salad" image="/images/food_vegetables/salad.svg" />
   <button text="cooking words" image="images/cook_,_to.svg" style="cell-color:hotpink" />
