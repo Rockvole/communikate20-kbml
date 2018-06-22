@@ -12,7 +12,7 @@
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
   <button text="breakfast" image="/images/food_meals/breakfast_5.svg" link="breakfast" />
   <button text="lunch" image="/images/food_meals/lunch_1.svg" link="lunch"/>
-  <button text="meals" image="images/dinner_hot.svg" />
+  <button text="meals" image="/images/food_feeding/dinner.svg" link="meals" />
   <button text="meat and fish" image="images/meat.svg" />
 </row>
 <row>

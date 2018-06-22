@@ -23,7 +23,7 @@
   <button text="would" style="font-size:22;font-weight:bold;" />
 </row>
 <row>
-  <button text="how" image="/images-all/how.svg" />
+  <button text="how" image="/images/question/how.svg" />
   <button text="Can I see that?" image="/images/people_descriptive/good_person.svg"/>
   <button text="How much?" image="/images-all/money.svg"/>
   <button />

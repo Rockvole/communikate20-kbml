@@ -17,7 +17,7 @@
   <button text="places outside" image="images/outside.svg" />
 </row>
 <row>
-  <button text="work" image="/images-all/work_,_to.svg" />
+  <button text="work" image="/images/tools_actions/work_,_to.svg" />
   <button text="School / college" image="/images/building_school/school_1.svg" />
   <button text="town" image="/images-all/house.svg" />
   <button text="hospital" image="images/medicine.svg" />
