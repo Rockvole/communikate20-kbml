@@ -13,7 +13,7 @@
   <button text="breakfast" image="/images/food_meals/breakfast_5.svg" link="breakfast" />
   <button text="lunch" image="/images/food_meals/lunch_1.svg" link="lunch"/>
   <button text="meals" image="/images/food_feeding/dinner.svg" link="meals" />
-  <button text="meat and fish" image="images/meat.svg" />
+  <button text="meat and fish" image="/images/food_meat/meat.svg" link="meat_fish"/>
 </row>
 <row>
   <button text="I'm hungry" image="images/hungry.svg" style="cell-color:cyan" />

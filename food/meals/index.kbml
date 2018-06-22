@@ -30,10 +30,10 @@
   <button text="ravioli" image="/images/food_pastas/ravioli.svg" />
 </row>
 <row>
-  <button text="some" />
-  <button text="and" />
+  <button />
+  <button />
   <button text="macaroni cheese" image="/images/food_meals/macaroni_cheese.svg" />
-  <button text="Food chat" />
-  <button text="favorite food" />
+  <button />
+  <button />
 </row>
 </keyboard>

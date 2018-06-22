@@ -13,7 +13,7 @@
   <button text="Spelling" style="cell-color:skyblue" />
   <button text="Numbers" style="cell-color:cyan" />
   <button text="Timetable" image="images/calendar.svg" />
-  <button text="Computer control" image="/images-all/computer_monitor.svg" style="cell-color:red" />
+  <button text="Computer control" image="/images/electrical_computer/computer_monitor.svg" style="cell-color:red" />
 </row>
 <row>
   <button />
