@@ -17,21 +17,21 @@
   <button text="a" style="cell-color:pink;font-size:28;" />
 </row>
 <row>
-  <button text="all" image="/images-all/spotty.svg" style="cell-color:yellow" />
+  <button text="all" image="/images/descriptive_state/spotty.svg" style="cell-color:yellow" />
   <button text="this" style="font-size:28" />
   <button text="that" style="font-size:28" />
   <button text="is" style="cell-color:hotpink;font-size:28" />
   <button text="am" style="cell-color:hotpink;font-size:28;" />
 </row>
 <row>
-  <button text="none" image="/images-all/spotty.svg" />
+  <button text="none" image="/images/descriptive_state/spotty.svg" />
   <button text="to" style="font-size:28" />
   <button text="from" style="font-size:28" />
   <button text="about" image="images/work_book.svg" style="cell-color:yellow" />
   <button text="be" style="cell-color:hotpink;font-size:28" />
 </row>
 <row>
-  <button text="some" image="/images-all/spotty.svg"/>
+  <button text="some" image="/images/descriptive_state/spotty.svg"/>
   <button text="with" image="images/some.svg"/>
   <button text="and" style="cell-color:pink;font-size:28" />
   <button text="at" image="images/at_key.svg" style="cell-color:pink;" />

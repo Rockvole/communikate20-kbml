@@ -32,7 +32,7 @@
 <row>
   <button text="How are you?" image="/chatting/images/funny_laugh.svg" style="cell-color:pink"/>
   <button text="What have you been doing?" image="images/group_work.svg"/>
-  <button text="What do you think?" image="/images-all/point_,_to.svg" style="cell-color:orchid"/>
+  <button text="What do you think?" image="/images/descriptive_direction/point_,_to.svg" style="cell-color:orchid"/>
   <button text="What's next?" image="images/next.svg" />
   <button text="What's that?" />
 </row>

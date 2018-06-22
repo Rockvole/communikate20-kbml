@@ -16,7 +16,7 @@
   <button text="opposites" image="images/opposite.svg" />
 </row>
 <row>
-  <button text="all" image="/images-all/spotty.svg" style="cell-color:yellow" />
+  <button text="all" image="/images/descriptive_state/spotty.svg" style="cell-color:yellow" />
   <button text="more" image="images/more.svg" />
   <button text="nice" image="images/rainbow.svg" />
   <button text="wrong" image="images/wrong_thought.svg" />

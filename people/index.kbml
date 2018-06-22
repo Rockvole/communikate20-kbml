@@ -31,7 +31,7 @@
 </row>
 <row>
   <button text="it" image="images/bottom.svg" />
-  <button text="you" image="/images-all/point_,_to.svg" />
+  <button text="you" image="/images/descriptive_direction/point_,_to.svg" />
   <button text="he" image="images/handsome.svg" />
   <button text="she" image="images/hair_ponytail.svg" />
   <button text="Family" image="images/family.svg" />
