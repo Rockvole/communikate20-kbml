@@ -17,7 +17,7 @@
   <button text="see" image="/images/healthcare_body/eyes_blue.svg" />
 </row>
 <row>
-  <button text="stop" image="images/traffic_lights.svg" />
+  <button text="stop" image="/images/transport_road/traffic_lights.svg" />
   <button text="come" />
   <button text="get" image="/images/leisure_toys/car_toy.svg" />
   <button text="give" image="images/sprinkle_,_to.svg" />
@@ -28,13 +28,13 @@
   <button text="listen" image="/images/healthcare_body/ear.svg" />
   <button text="make" image="/images/tools_actions/work_,_to.svg" />
   <button text="put" />
-  <button text="tell" image="images/man_-_face.svg" />
+  <button text="tell" image="/images/people_feelings/man_-_face.svg" />
 </row>
 <row>
   <button text="take" image="images/smooth.svg"/>
   <button text="turn" image="/images/descriptive_direction/around.svg"/>
-  <button text="open" image="images/open_2.svg" />
-  <button text="close" image="images/closed.svg" />
+  <button text="open" image="/images/descriptive_position/open_2.svg" />
+  <button text="close" image="/images/descriptive_position/closed.svg" />
   <button text="More action words" image="/images/tools_actions/work_,_to.svg" />
 </row>
 </keyboard>

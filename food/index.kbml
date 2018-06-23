@@ -27,7 +27,7 @@
   <button text="snacks/pudding" image="/images/food_sweets/ice_cream_2.svg" link="snacks"/>
   <button text="Sauces/ingredients" image="/images/food_ingredients/sauce_tomato.svg" link="sauces"/>
   <button text="salad" image="/images/food_vegetables/salad.svg" link="salad"/>
-  <button text="cooking words" image="/images/kitchen_actions/cook_,_to.svg" style="cell-color:hotpink" />
+  <button text="cooking words" image="/images/kitchen_actions/cook_,_to.svg" style="cell-color:hotpink" link="cooking"/>
 </row>
 <row>
   <button text="some" image="/images/descriptive_state/spotty.svg" style="cell-color:lime"/>
