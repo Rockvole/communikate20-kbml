@@ -14,7 +14,7 @@
 </row>
 <row>
   <button text="I" image="/images/people_descriptive/good_person.svg" style="cell-color:goldenrod" />
-  <button text="People" image="people/images/assembly.svg" style="cell-color:goldenrod" link="people"/>
+  <button text="People" image="/images/work_timetable/assembly.svg" style="cell-color:goldenrod" link="people"/>
   <button text="Personal Care" image="/images/healthcare_grooming/shower_1_,_to.svg" style="cell-color:pink" link="personal_care" />
   <button text="Little Words" image="/images/descriptive_quantity/little.svg" style="cell-color:lime" link="little_words" />
   <button text="My Day" image="/images/building_school/school.svg" style="cell-color:yellow" link="my_day" />
