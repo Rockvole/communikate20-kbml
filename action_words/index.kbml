@@ -11,7 +11,7 @@
 </row>
 <row>
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
-  <button text="do" image="images/fist.svg" />
+  <button text="do" image="/images/healthcare_body/fist.svg" />
   <button text="help" image="/images/people_profession/care_assistant_2b.svg" />
   <button text="look" image="/images/healthcare_body/eyes_green.svg" />
   <button text="see" image="/images/healthcare_body/eyes_blue.svg" />
@@ -20,18 +20,18 @@
   <button text="stop" image="/images/transport_road/traffic_lights.svg" />
   <button text="come" />
   <button text="get" image="/images/leisure_toys/car_toy.svg" />
-  <button text="give" image="images/sprinkle_,_to.svg" />
+  <button text="give" image="/images/kitchen_actions/sprinkle_,_to.svg" />
   <button text="think" />
 </row>
 <row>
-  <button text="like" image="images/great.svg" />
+  <button text="like" image="/images/descriptive_state/great.svg" />
   <button text="listen" image="/images/healthcare_body/ear.svg" />
   <button text="make" image="/images/tools_actions/work_,_to.svg" />
   <button text="put" />
   <button text="tell" image="/images/people_feelings/man_-_face.svg" />
 </row>
 <row>
-  <button text="take" image="images/smooth.svg"/>
+  <button text="take" image="/images/science/smooth.svg"/>
   <button text="turn" image="/images/descriptive_direction/around.svg"/>
   <button text="open" image="/images/descriptive_position/open_2.svg" />
   <button text="close" image="/images/descriptive_position/closed.svg" />
