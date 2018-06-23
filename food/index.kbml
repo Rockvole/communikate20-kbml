@@ -33,7 +33,7 @@
   <button text="some" image="/images/descriptive_state/spotty.svg" style="cell-color:lime"/>
   <button text="with" image="/images/descriptive_quantity/some.svg" style="cell-color:lime"/>
   <button text="and" style="cell-color:pink"/>
-  <button text="Food chat" image="/images/food_meals/ready_meal.svg" style="cell-color:lightgrey"/>
+  <button text="Food chat" image="/images/food_meals/ready_meal.svg" style="cell-color:lightgrey" link="food_chat"/>
   <button text="favorite food" image="/images/food_feeding/delicious_food.svg" style="cell-color:lightgrey" />
 </row>
 </keyboard>
