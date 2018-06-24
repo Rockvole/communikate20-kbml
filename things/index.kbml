@@ -13,7 +13,7 @@
   <button text="Things" image="images/dining_table.svg" />
   <button text="art things" image="images/craft_table.svg" />
   <button text="health" image="/images/medical_conditions/stomach_ache.svg" />
-  <button text="body parts" image="/personal_care/images/body_outline.svg" />
+  <button text="body parts" image="/images/healthcare_body/body_outline.svg" />
 </row>
 <row>
   <button text="clothes" image="/personal_care/images/clothes_generic.svg"/>
@@ -27,7 +27,7 @@
   <button text="office" image="images/office_block.svg" />
   <button text="sports" image="images/swim_,_to.svg" />
   <button text="Things that help" image="images/hoist.svg" />
-  <button text="toiletries" image="/personal_care/images/toilet_roll.svg" />
+  <button text="toiletries" image="/images/healthcare_grooming/toilet_roll.svg" />
 </row>
 <row>
   <button text="tools" image="images/drill_electric.svg"/>
