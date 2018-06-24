@@ -27,13 +27,13 @@
   <button text="they" image="/images/work_timetable/assembly.svg" />
   <button text="boy" image="images/handsome.svg" />
   <button text="girl" image="/images/people_descriptive/hair_ponytail.svg" />
-  <button text="Job" image="images/family_2.svg" />
+  <button text="Job" image="/images/people_relationship/family_2.svg" />
 </row>
 <row>
   <button text="it" image="/images/descriptive_position/bottom.svg" />
   <button text="you" image="/images/descriptive_direction/point_,_to.svg" />
   <button text="he" image="images/handsome.svg" />
   <button text="she" image="/images/people_descriptive/hair_ponytail.svg" />
-  <button text="Family" image="images/family.svg" />
+  <button text="Family" image="images/family.svg" link="family"/>
 </row>
 </keyboard>
