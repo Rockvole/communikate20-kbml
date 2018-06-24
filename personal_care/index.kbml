@@ -17,23 +17,23 @@
   <button text="body parts" image="/images/healthcare_body/body_outline.svg" style="cell-color:yellow" link="body_parts" />
 </row>
 <row>
-  <button text="clothes" image="/images/clothes_general/clothes_generic.svg" style="cell-color:yellow" />
+  <button text="clothes" image="/images/clothes_general/clothes_generic.svg" style="cell-color:yellow" link="clothes"/>
   <button text="I want to chill out on my bed" image="/images/building_furniture/single_bed.svg" />
-  <button text="I'd like a shave" image="images/shave_,_to.svg" />
+  <button text="I'd like a shave" image="/images/healthcare_grooming/shave_,_to.svg" />
   <button text="I need my medication" image="/images/medical_items/medicine.svg" />
   <button text="Please can you clean my glasses" image="/images/medical_items/glasses.svg" />
 </row>
 <row>
   <button text="Can you do my nails please" image="/images/healthcare_grooming/nail_care.svg" />
-  <button text="I'd like a shower" image="images/shower_1_,_to.svg" />
+  <button text="I'd like a shower" image="/images/healthcare_grooming/shower_1_,_to.svg" />
   <button text="I'd love a bath" image="/images/clothes_general/clothes_generic.svg" />
   <button text="I've got a problem with my" image="/images/communication_aid/wheelchair_and_switch_mount.svg" style="cell-color:yellow" />
   <button text="toiletries" image="/images/healthcare_grooming/toilet_roll.svg" style="cell-color:yellow" />
 </row>
 <row>
-  <button text="I need to get changed" image="images/undress_,_to.svg"/>
+  <button text="I need to get changed" image="/images/healthcare_grooming/undress_,_to.svg"/>
   <button />
-  <button text="Can you do my hair please" image="images/dry_hair_2_,_to.svg" />
+  <button text="Can you do my hair please" image="/images/healthcare_grooming/dry_hair_2_,_to.svg" />
   <button />
   <button />
 </row>
