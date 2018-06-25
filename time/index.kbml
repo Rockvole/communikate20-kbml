@@ -11,30 +11,30 @@
 </row>
 <row>
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;color:black;" operation="home"/>
-  <button text="time" image="images/clock.svg" />
-  <button text="day" image="images/day.svg"/>
-  <button text="months" image="images/calendar_month.svg" />
-  <button text="special days" image="images/calendar_month.svg" />
+  <button text="time" image="/images/electrical_general/clock.svg" />
+  <button text="day" image="/images/descriptive_time/day.svg"/>
+  <button text="months" image="/images/descriptive_time/calendar_month.svg" />
+  <button text="special days" image="/images/descriptive_time/calendar_month.svg" />
 </row>
 <row>
-  <button text="yesterday" image="images/yesterday.svg" />
-  <button text="today" image="images/today.svg" />
-  <button text="tomorrow" image="images/tomorrow.svg" />
-  <button text="later" image="images/future.svg" />
-  <button text="late" image="images/future.svg" />
+  <button text="yesterday" image="/images/descriptive_time/yesterday.svg" />
+  <button text="today" image="/images/descriptive_time/today.svg" />
+  <button text="tomorrow" image="/images/descriptive_time/tomorrow.svg" />
+  <button text="later" image="/images/descriptive_time/future.svg" />
+  <button text="late" image="/images/descriptive_time/future.svg" />
 </row>
 <row>
-  <button text="morning" image="images/morning.svg" />
-  <button text="afternoon" image="images/afternoon.svg" />
-  <button text="evening" image="images/night.svg" />
-  <button text="now" image="images/now.svg" />
-  <button text="never" image="images/clock.svg" />
+  <button text="morning" image="/images/descriptive_time/morning.svg" />
+  <button text="afternoon" image="/images/descriptive_time/afternoon.svg" />
+  <button text="evening" image="/images/descriptive_time/night.svg" />
+  <button text="now" image="/images/descriptive_time/now.svg" />
+  <button text="never" image="/images/electrical_general/clock.svg" />
 </row>
 <row>
   <button text="again" />
-  <button text="ready" image="images/ready.svg" />
-  <button text="hurry" image="images/ready.svg" />
-  <button text="before" image="images/first.svg" />
-  <button text="after" image="images/last.svg" />
+  <button text="ready" image="/images/people_descriptive/ready.svg" />
+  <button text="hurry" image="/images/people_descriptive/ready.svg" />
+  <button text="before" image="/images/descriptive_position/first.svg" />
+  <button text="after" image="/images/descriptive_position/last.svg" />
 </row>
 </keyboard>

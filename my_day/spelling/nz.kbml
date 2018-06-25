@@ -12,30 +12,30 @@
 </row>
 <row>
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;font-size:18" operation="home"/>
-  <button text="a" />
-  <button text="b" />
-  <button text="c" />
-  <button text="d" />
+  <button text="n" />
+  <button text="o" />
+  <button text="p" />
+  <button text="q" />
 </row>
 <row>
   <button text="Backspace" style="cell-color:powderblue" />
-  <button text="e" />
-  <button text="f" />
-  <button text="g" />
-  <button text="h" />
+  <button text="r" />
+  <button text="s" />
+  <button text="t" />
+  <button text="u" />
 </row>
 <row>
-  <button text="N - Z" style="cell-color:cyan" link="nz.kbml"/>
-  <button text="i" />
-  <button text="j" />
-  <button text="k" />
-  <button text="l" />
+  <button text="A - M" style="cell-color:cyan" link="index.kbml"/>
+  <button text="v" />
+  <button text="w" />
+  <button text="x" />
+  <button text="y" />
 </row>
 <row>
   <button text="Clear" style="cell-color:powderblue" />
-  <button text="m" />
+  <button text="z" />
   <button text="Space" image="/images/electrical_computer/computer_keyboard.svg" />
   <button text="Shift" />
-  <button text="?" />
+  <button text="!" />
 </row>
 </keyboard>
