@@ -1,6 +1,7 @@
 <keyboard version="1">
 <style>
-  cell-color:yellow;
+  cell-color:white;
+  font-size:28
 </style>  
 <row>
   <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
@@ -10,30 +11,30 @@
 </row>
 <row>
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
-  <button text="Spelling" style="cell-color:skyblue" link="spelling"/>
-  <button text="Numbers" style="cell-color:cyan" />
-  <button text="Timetable" image="/images/work_timetable/calendar.svg" />
-  <button text="Computer control" image="/images/electrical_computer/computer_monitor.svg" style="cell-color:red" />
+  <button text="a" />
+  <button text="b" />
+  <button text="c" />
+  <button text="d" />
 </row>
 <row>
-  <button />
-  <button />
-  <button />
-  <button />
-  <button />
+  <button text="Backspace" style="cell-color:powderblue" />
+  <button text="e" />
+  <button text="f" />
+  <button text="g" />
+  <button text="h" />
 </row>
 <row>
-  <button />
-  <button />
-  <button />
-  <button />
-  <button />
+  <button text="N - Z" style="cell-color:cyan" />
+  <button text="i" />
+  <button text="j" />
+  <button text="k" />
+  <button text="l" />
 </row>
 <row>
-  <button />
-  <button />
-  <button />
-  <button />
-  <button />
+  <button text="Clear" style="cell-color:powderblue" />
+  <button text="m" />
+  <button text="Space" />
+  <button text="Shift" />
+  <button text="?" />
 </row>
 </keyboard>

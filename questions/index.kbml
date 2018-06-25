@@ -12,14 +12,14 @@
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
   <button text="Questions" image="/images/question/how.svg" />
   <button text="why" image="/images/question/why.svg" />
-  <button text="when" image="images/when.svg" />
+  <button text="when" image="/images/question/when.svg" />
   <button text="could" style="font-size:22;font-weight:bold;" />
 </row>
 <row>
-  <button text="what" image="images/what.svg" />
-  <button text="who" image="images/who.svg" />
-  <button text="where" image="images/where.svg" />
-  <button text="which" image="images/which.svg" />
+  <button text="what" image="/images/question/what.svg" />
+  <button text="who" image="/images/question/who.svg" />
+  <button text="where" image="/images/question/where.svg" />
+  <button text="which" image="/images/question/which.svg" />
   <button text="would" style="font-size:22;font-weight:bold;" />
 </row>
 <row>
@@ -31,9 +31,9 @@
 </row>
 <row>
   <button text="How are you?" image="/images/people_descriptive/funny_laugh.svg" style="cell-color:pink"/>
-  <button text="What have you been doing?" image="images/group_work.svg"/>
+  <button text="What have you been doing?" image="/images/work_subjects/group_work.svg"/>
   <button text="What do you think?" image="/images/descriptive_direction/point_,_to.svg" style="cell-color:orchid"/>
-  <button text="What's next?" image="images/next.svg" />
+  <button text="What's next?" image="/images/descriptive_position/next.svg" />
   <button text="What's that?" />
 </row>
 </keyboard>
