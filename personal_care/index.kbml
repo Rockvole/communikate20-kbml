@@ -28,7 +28,7 @@
   <button text="I'd like a shower" image="/images/healthcare_grooming/shower_1_,_to.svg" />
   <button text="I'd love a bath" image="/images/clothes_general/clothes_generic.svg" />
   <button text="I've got a problem with my" image="/images/communication_aid/wheelchair_and_switch_mount.svg" style="cell-color:yellow" link="problem" />
-  <button text="toiletries" image="/images/healthcare_grooming/toilet_roll.svg" style="cell-color:yellow" />
+  <button text="toiletries" image="/images/healthcare_grooming/toilet_roll.svg" style="cell-color:yellow" link="toiletries" />
 </row>
 <row>
   <button text="I need to get changed" image="/images/healthcare_grooming/undress_,_to.svg"/>
