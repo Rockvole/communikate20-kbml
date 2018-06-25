@@ -11,7 +11,7 @@
 </row>
 <row>
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
-  <button text="Position words" image="/images/descriptive_position/in.svg" />
+  <button text="Position words" image="/images/descriptive_position/in.svg" link="position_words"/>
   <button text="fun" image="/images/celebration_event/celebration.svg" style="cell-color:yellow" />
   <button text="away" image="/images/people_actions/exit_door_,_to.svg" />
   <button text="a" style="cell-color:pink;font-size:28;" />
