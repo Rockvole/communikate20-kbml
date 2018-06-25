@@ -11,9 +11,9 @@
 </row>
 <row>
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
-  <button text="Position words" image="images/in.svg" />
-  <button text="fun" image="images/celebration.svg" style="cell-color:yellow" />
-  <button text="away" image="images/exit_door_,_to.svg" />
+  <button text="Position words" image="/images/descriptive_position/in.svg" />
+  <button text="fun" image="/images/celebration_event/celebration.svg" style="cell-color:yellow" />
+  <button text="away" image="/images/people_actions/exit_door_,_to.svg" />
   <button text="a" style="cell-color:pink;font-size:28;" />
 </row>
 <row>
@@ -27,14 +27,14 @@
   <button text="none" image="/images/descriptive_state/spotty.svg" />
   <button text="to" style="font-size:28" />
   <button text="from" style="font-size:28" />
-  <button text="about" image="images/work_book.svg" style="cell-color:yellow" />
+  <button text="about" image="/images/work_education/work_book.svg" style="cell-color:yellow" />
   <button text="be" style="cell-color:hotpink;font-size:28" />
 </row>
 <row>
   <button text="some" image="/images/descriptive_state/spotty.svg"/>
   <button text="with" image="/images/descriptive_quantity/some.svg"/>
   <button text="and" style="cell-color:pink;font-size:28" />
-  <button text="at" image="images/at_key.svg" style="cell-color:pink;" />
+  <button text="at" image="/images/computer_icon/at_key.svg" style="cell-color:pink;" />
   <button text="the" style="cell-color:pink;font-size:28" />
 </row>
 </keyboard>
