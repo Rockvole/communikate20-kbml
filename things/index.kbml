@@ -10,29 +10,29 @@
 </row>
 <row>
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
-  <button text="Things" image="images/dining_table.svg" />
-  <button text="art things" image="images/craft_table.svg" />
+  <button text="Things" image="/images/building_furniture/dining_table.svg" />
+  <button text="art things" image="/images/art_making/craft_table.svg" />
   <button text="health" image="/images/medical_conditions/stomach_ache.svg" />
   <button text="body parts" image="/images/healthcare_body/body_outline.svg" />
 </row>
 <row>
   <button text="clothes" image="/images/clothes_general/clothes_generic.svg"/>
-  <button text="computer" image="images/computer_2.svg" />
-  <button text="furniture" image="images/furniture.svg" />
-  <button text="toys" image="images/toys.svg" />
-  <button text="kitchen things" image="images/place_setting.svg" />
+  <button text="computer" image="/images/electrical_computer/computer_2.svg" />
+  <button text="furniture" image="/images/building_furniture/furniture.svg" />
+  <button text="toys" image="/images/leisure_toys/toys.svg" />
+  <button text="kitchen things" image="/images/kitchen_items/place_setting.svg" />
 </row>
 <row>
   <button text="money" image="/images/money/money.svg" />
-  <button text="office" image="images/office_block.svg" />
-  <button text="sports" image="images/swim_,_to.svg" />
-  <button text="Things that help" image="images/hoist.svg" />
+  <button text="office" image="/images/building_office/office_block.svg" />
+  <button text="sports" image="/images/sport/swim_,_to.svg" />
+  <button text="Things that help" image="/images/medical_items/hoist.svg" />
   <button text="toiletries" image="/images/healthcare_grooming/toilet_roll.svg" />
 </row>
 <row>
-  <button text="tools" image="images/drill_electric.svg"/>
-  <button text="transport" image="images/train.svg"/>
-  <button text="nature" image="images/tree.svg" />
+  <button text="tools" image="/images/tools_workshop/drill_electric.svg"/>
+  <button text="transport" image="/images/transport_rail/train.svg"/>
+  <button text="nature" image="/images/plants_trees/tree.svg" />
   <button />
   <button />
 </row>

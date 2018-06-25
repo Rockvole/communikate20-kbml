@@ -11,7 +11,7 @@
 <row>
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
   <button text="Spelling" style="cell-color:skyblue" link="spelling"/>
-  <button text="Numbers" style="cell-color:cyan" />
+  <button text="Numbers" style="cell-color:cyan" link="numbers" />
   <button text="Timetable" image="/images/work_timetable/calendar.svg" />
   <button text="Computer control" image="/images/electrical_computer/computer_monitor.svg" style="cell-color:red" />
 </row>
