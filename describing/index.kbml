@@ -10,7 +10,7 @@
 </row>
 <row>
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
-  <button text="feelings" image="/images/people_feelings/sad_man.svg" />
+  <button text="feelings" image="/images/people_feelings/sad_man.svg" link="feelings"/>
   <button text="colours" image="/images/art_colour/colour.svg" />
   <button text="shapes" image="/images/descriptive_shape/shapes.svg" />
   <button text="opposites" image="/images/descriptive_position/opposite.svg" />
