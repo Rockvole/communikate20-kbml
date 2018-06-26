@@ -35,6 +35,6 @@
   <button text="turn" image="/images/descriptive_direction/around.svg"/>
   <button text="open" image="/images/descriptive_position/open_2.svg" />
   <button text="close" image="/images/descriptive_position/closed.svg" />
-  <button text="More action words" image="/images/tools_actions/work_,_to.svg" />
+  <button text="More action words" image="/images/tools_actions/work_,_to.svg" link="more"/>
 </row>
 </keyboard>
