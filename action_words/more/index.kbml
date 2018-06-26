@@ -35,6 +35,6 @@
   <button text="lose" image="/images/descriptive_position/last_2.svg"/>
   <button text="finish" image="/images/descriptive_direction/finish.svg" />
   <button text="need" image="/images/healthcare_body/fist.svg" />
-  <button text="More action words" image="/images/tools_actions/work_,_to.svg" />
+  <button text="More action words" image="/images/tools_actions/work_,_to.svg" link="more"/>
 </row>
 </keyboard>
