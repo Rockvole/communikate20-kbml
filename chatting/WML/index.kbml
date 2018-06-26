@@ -10,10 +10,10 @@
 </row>
 <row>
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
-  <button text="cool" image="images/sunglasses.svg" />
+  <button text="cool" image="/images/clothes_accessories/sunglasses.svg" />
   <button text="Are you ignoring me?" image="/images/people_feelings/jealous_man.svg" style="font-size:14;cell-color:orange" />
   <button text="leave me alone" image="/images/descriptive_direction/go_through_door_,_to.svg" />
-  <button text="lucky" image="images/lucky.svg" />
+  <button text="lucky" image="/images/descriptive_state/lucky.svg" />
 </row>
 <row>
   <button text="chill out" image="/images/people_actions/relax_3_,_to.svg" />
