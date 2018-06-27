@@ -18,7 +18,7 @@
 <row>
   <button text="clothes" image="/images/clothes_general/clothes_generic.svg" link="clothes"/>
   <button text="computer" image="/images/electrical_computer/computer_2.svg" link="computer"/>
-  <button text="furniture" image="/images/building_furniture/furniture.svg" />
+  <button text="furniture" image="/images/building_furniture/furniture.svg" link="furniture"/>
   <button text="toys" image="/images/leisure_toys/toys.svg" />
   <button text="kitchen things" image="/images/kitchen_items/place_setting.svg" />
 </row>
