@@ -13,7 +13,7 @@
   <button text="Things" image="/images/building_furniture/dining_table.svg" link="things"/>
   <button text="art things" image="/images/art_making/craft_table.svg" link="art_things"/>
   <button text="health" image="/images/medical_conditions/stomach_ache.svg" link="health"/>
-  <button text="body parts" image="/images/healthcare_body/body_outline.svg" />
+  <button text="body parts" image="/images/healthcare_body/body_outline.svg" link="body_parts"/>
 </row>
 <row>
   <button text="clothes" image="/images/clothes_general/clothes_generic.svg"/>
