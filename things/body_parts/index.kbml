@@ -34,6 +34,6 @@
   <button text="neck" image="/images/healthcare_body/neck.svg" />
   <button text="leg" image="/images/healthcare_body/leg.svg" />
   <button text="toes" image="/images/healthcare_body/toe_nail.svg" />
-  <button text="private parts" image="/images/healthcare_body/chest_female.svg" />
+  <button text="private parts" image="/images/healthcare_body/chest_female.svg" link="private_parts"/>
 </row>
 </keyboard>
