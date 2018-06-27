@@ -12,30 +12,30 @@
 </row>
 <row>
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;font-size:18" operation="home"/>
-  <button text="a" />
-  <button text="b" />
-  <button text="c" />
-  <button text="d" />
+  <button text="a" operation="nospace" />
+  <button text="b" operation="nospace" />
+  <button text="c" operation="nospace" />
+  <button text="d" operation="nospace" />
 </row>
 <row>
-  <button text="Backspace" style="cell-color:powderblue" />
-  <button text="e" />
-  <button text="f" />
-  <button text="g" />
-  <button text="h" />
+  <button text="Backspace" style="cell-color:powderblue" operation="backspace"/>
+  <button text="e" operation="nospace" />
+  <button text="f" operation="nospace" />
+  <button text="g" operation="nospace" />
+  <button text="h" operation="nospace" />
 </row>
 <row>
   <button text="N - Z" style="cell-color:cyan" link="nz.kbml"/>
-  <button text="i" />
-  <button text="j" />
-  <button text="k" />
-  <button text="l" />
+  <button text="i" operation="nospace" />
+  <button text="j" operation="nospace" />
+  <button text="k" operation="nospace" />
+  <button text="l" operation="nospace" />
 </row>
 <row>
-  <button text="Clear" style="cell-color:powderblue" />
-  <button text="m" />
-  <button text="Space" image="/images/electrical_computer/computer_keyboard.svg" />
-  <button text="Shift" />
-  <button text="?" />
+  <button text="Clear" style="cell-color:powderblue" operation="clear"/>
+  <button text="m" operation="nospace" />
+  <button text="Space" say=" " image="/images/electrical_computer/computer_keyboard.svg" operation="nospace" />
+  <button text="Shift" operation="nospace" />
+  <button text="?" operation="nospace" />
 </row>
 </keyboard>

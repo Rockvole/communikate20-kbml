@@ -27,7 +27,7 @@
   <button text="they" image="/images/work_timetable/assembly.svg" />
   <button text="boy" image="/images/people_descriptive/handsome.svg" />
   <button text="girl" image="/images/people_descriptive/hair_ponytail.svg" />
-  <button text="Job" image="/images/people_relationship/family_2.svg" />
+  <button text="Job" image="/images/people_relationship/family_2.svg" link="job"/>
 </row>
 <row>
   <button text="it" image="/images/descriptive_position/bottom.svg" />

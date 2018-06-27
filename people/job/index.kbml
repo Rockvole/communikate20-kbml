@@ -25,7 +25,7 @@
 <row>
   <button text="post person" image="/images/people_profession/post_person_1b.svg" />
   <button text="pilot" image="/images/people_profession/air_person_2b.svg" />
-  <button text="handy person" /image="images/people_profession/carpenter_1a.svg" />
+  <button text="handy person" image="/images/people_profession/carpenter_1a.svg" />
   <button text="OT" image="/images/people_profession/occupational_therapist_1a.svg" />
   <button text="physio" image="/images/people_profession/physio_therapist_2a.svg"/>
 </row>
