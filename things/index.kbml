@@ -12,7 +12,7 @@
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
   <button text="Things" image="/images/building_furniture/dining_table.svg" link="things"/>
   <button text="art things" image="/images/art_making/craft_table.svg" link="art_things"/>
-  <button text="health" image="/images/medical_conditions/stomach_ache.svg" />
+  <button text="health" image="/images/medical_conditions/stomach_ache.svg" link="health"/>
   <button text="body parts" image="/images/healthcare_body/body_outline.svg" />
 </row>
 <row>
