@@ -16,7 +16,7 @@
   <button text="body parts" image="/images/healthcare_body/body_outline.svg" link="body_parts"/>
 </row>
 <row>
-  <button text="clothes" image="/images/clothes_general/clothes_generic.svg"/>
+  <button text="clothes" image="/images/clothes_general/clothes_generic.svg" link="clothes"/>
   <button text="computer" image="/images/electrical_computer/computer_2.svg" />
   <button text="furniture" image="/images/building_furniture/furniture.svg" />
   <button text="toys" image="/images/leisure_toys/toys.svg" />
