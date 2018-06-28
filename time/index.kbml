@@ -12,7 +12,7 @@
 <row>
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;color:black;" operation="home"/>
   <button text="time" image="/images/electrical_general/clock.svg" />
-  <button text="day" image="/images/descriptive_time/day.svg"/>
+  <button text="day" image="/images/descriptive_time/day.svg" link="day"/>
   <button text="months" image="/images/descriptive_time/calendar_month.svg" />
   <button text="special days" image="/images/descriptive_time/calendar_month.svg" />
 </row>
