@@ -14,7 +14,7 @@
   <button text="place" image="/images/science_astronomy/Earth.svg" />
   <button text="My day places" image="/images/building_school/school.svg" />
   <button text="shops" image="/images/building_shop/shop_2.svg" />
-  <button text="places outside" image="/images/descriptive_position/outside.svg" />
+  <button text="places outside" image="/images/descriptive_position/outside.svg" link="outside"/>
 </row>
 <row>
   <button text="work" image="/images/tools_actions/work_,_to.svg" />
