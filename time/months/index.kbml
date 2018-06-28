@@ -31,7 +31,7 @@
   <button text="October" image="/images/celebration_event/Halloween.svg" />
 </row>
 <row>
-  <button text="November" image="/images/building_garden/bonfire.svg" />
+  <button text="November" image="/images/celebration_event/Bonfire_Night.svg" />
   <button text="December" image="/images/religion_festival/Christmas.svg" />
   <button />
   <button />
