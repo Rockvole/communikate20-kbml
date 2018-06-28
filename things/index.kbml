@@ -24,7 +24,7 @@
   <button text="office" image="/images/building_office/office_block.svg" link="office"/>
   <button text="sports" image="/images/sport/swim_,_to.svg" link="sports"/>
   <button text="Things that help" image="/images/medical_items/hoist.svg" link="help"/>
-  <button text="toiletries" image="/images/healthcare_grooming/toilet_roll.svg" />
+  <button text="toiletries" image="/images/healthcare_grooming/toilet_roll.svg" link="toiletries"/>
 </row>
 <row>
   <button text="tools" image="/images/tools_workshop/drill_electric.svg"/>
