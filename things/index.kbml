@@ -29,7 +29,7 @@
 <row>
   <button text="tools" image="/images/tools_workshop/drill_electric.svg" link="tools"/>
   <button text="transport" image="/images/transport_rail/train.svg" link="transport"/>
-  <button text="nature" image="/images/plants_trees/tree.svg" />
+  <button text="nature" image="/images/plants_trees/tree.svg" link="nature"/>
   <button />
   <button />
 </row>
