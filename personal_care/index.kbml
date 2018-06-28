@@ -27,7 +27,7 @@
   <button text="Can you do my nails please" image="/images/healthcare_grooming/nail_care.svg" />
   <button text="I'd like a shower" image="/images/healthcare_grooming/shower_1_,_to.svg" />
   <button text="I'd love a bath" image="/images/clothes_general/clothes_generic.svg" />
-  <button text="I've got a problem with my" image="/images/communication_aid/wheelchair_and_switch_mount.svg" style="cell-color:yellow" link="problem" />
+  <button text="I've got a problem with my" image="/images/communication_aid/wheelchair_and_switch_mount.svg" style="cell-color:yellow" link="/things/help" />
   <button text="toiletries" image="/images/healthcare_grooming/toilet_roll.svg" style="cell-color:yellow" link="toiletries" />
 </row>
 <row>

@@ -23,7 +23,7 @@
   <button text="money" image="/images/money/money.svg" link="money"/>
   <button text="office" image="/images/building_office/office_block.svg" link="office"/>
   <button text="sports" image="/images/sport/swim_,_to.svg" link="sports"/>
-  <button text="Things that help" image="/images/medical_items/hoist.svg" />
+  <button text="Things that help" image="/images/medical_items/hoist.svg" link="help"/>
   <button text="toiletries" image="/images/healthcare_grooming/toilet_roll.svg" />
 </row>
 <row>
