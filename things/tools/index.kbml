@@ -31,6 +31,6 @@
   <button />
   <button />
   <button />
-  <button text="materials" image="/images/science/plastic.svg" />
+  <button text="materials" image="/images/science/plastic.svg" link="/things/materials"/>
 </row>
 </keyboard>
