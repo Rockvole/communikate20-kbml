@@ -6,9 +6,9 @@
   <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
 </row>
 <row>
-  <button text="Hello" image="/images/communication_conversation/hello.svg" />
-  <button text="I want to talk to you" image="/images/people_feelings/serene_man.svg" />
-  <button text="Chatting" image="/images/people_feelings/excited_lady.svg" link="chatting" />
+  <button text="Hello" image="/images/communication_conversation/hello.svg" style="cell-color:lightgrey;" />
+  <button text="I want to talk to you" image="/images/people_feelings/serene_man.svg" style="cell-color:lightgrey;" />
+  <button text="Chatting" image="/images/people_feelings/excited_lady.svg" style="cell-color:lightgrey;" link="chatting" />
   <button text="Questions" image="/images/question/how.svg" link="questions" style="cell-color:orange;"/>
   <button text="Food" image="/images/food_breads/food.svg" style="cell-color:yellow;" link="food" />
 </row>

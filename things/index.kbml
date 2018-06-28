@@ -1,7 +1,4 @@
 <keyboard version="1">
-<style>
-  cell-color:yellow;
-</style>  
 <row>
   <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
   <input colspan="2" style="cell-color:white"/>
@@ -20,7 +17,7 @@
   <button text="computer" image="/images/electrical_computer/computer_2.svg" link="computer"/>
   <button text="furniture" image="/images/building_furniture/furniture.svg" link="furniture"/>
   <button text="toys" image="/images/leisure_toys/toys.svg" link="toys"/>
-  <button text="kitchen things" image="/images/kitchen_items/place_setting.svg" />
+  <button text="kitchen things" image="/images/kitchen_items/place_setting.svg" link="kitchen_things"/>
 </row>
 <row>
   <button text="money" image="/images/money/money.svg" />
