@@ -32,7 +32,7 @@
 <row>
   <button text="disability" image="/images/communication_signs/disabled_sign.svg" />
   <button text="mobile" image="/images/electrical_phone/mobile_phone.svg"/>
-  <button text="Tell me about you" image="/images/people_feelings/serene_man.svg" style="cell-color:orange"/>
+  <button text="Tell me about you" image="/images/people_feelings/serene_man.svg" style="cell-color:orange" link="/chatting/about_you"/>
   <button />
   <button />
 </row>
