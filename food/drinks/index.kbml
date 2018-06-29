@@ -13,7 +13,7 @@
   <button text="hot chocolate" image="/images/drink_type/hot_chocolate.svg"/>
 </row>
 <row>
-  <button text="Describing drinks" image="/images/drink_containers/drink_small.svg" />
+  <button text="Describing drinks" image="/images/drink_containers/drink_small.svg" style="cell-color:cyan" link="/food/describing_drinks"/>
   <button text="milk" image="/images/drink_type/milk.svg" />
   <button text="water" image="/images/drink_type/water.svg" />
   <button />
