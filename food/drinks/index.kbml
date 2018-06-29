@@ -13,14 +13,14 @@
   <button text="hot chocolate" image="/images/drink_type/hot_chocolate.svg"/>
 </row>
 <row>
-  <button text="Describing drinks" image="/images/drink_containers/drink_small.svg" style="cell-color:cyan" link="/food/describing_drinks"/>
+  <button text="Describing drinks" image="/images/drink_containers/drink_small.svg" style="cell-color:cyan" link="describing"/>
   <button text="milk" image="/images/drink_type/milk.svg" />
   <button text="water" image="/images/drink_type/water.svg" />
   <button />
   <button />
 </row>
 <row>
-  <button text="juice" image="/images/drink_type/drink.svg" />
+  <button text="juice" image="/images/drink_type/drink.svg" link="juice"/>
   <button text="smoothie" image="/images/drink_type/milkshake.svg" />
   <button text="milkshake" image="/images/drink_type/milkshake.svg" />
   <button text="fizzy drink" image="/images/drink_type/drink.svg" />
