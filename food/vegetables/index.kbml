@@ -8,7 +8,7 @@
 <row>
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
   <button text="vegetables" image="/images/food_vegetables/vegetables.svg" />
-  <button text="potato" image="/images/food_vegetables/potato.svg"/>
+  <button text="potato" image="/images/food_vegetables/potato.svg" link="potato"/>
   <button text="aubergine" image="/images/food_vegetables/aubergine.svg" />
   <button text="broccoli" image="/images/food_vegetables/broccoli.svg"/>
 </row>

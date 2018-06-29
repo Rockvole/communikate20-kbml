@@ -34,6 +34,6 @@
   <button text="What have you been doing?" image="/images/work_subjects/group_work.svg"/>
   <button text="What do you think?" image="/images/descriptive_direction/point_,_to.svg" style="cell-color:orchid"/>
   <button text="What's next?" image="/images/descriptive_position/next.svg" />
-  <button text="What's that?" />
+  <button text="What's that?" image="/images/descriptive_shape/triangle_equilateral.svg" />
 </row>
 </keyboard>
