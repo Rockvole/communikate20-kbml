@@ -9,7 +9,7 @@
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
   <button text="weather" image="/images/descriptive_time/sun.svg" link="weather"/>
   <button text="animals" image="/images/animal_mammal/rabbit.svg" link="animals"/>
-  <button text="gardening" image="/images/plants_trees/tree.svg" />
+  <button text="gardening" image="/images/plants_trees/tree.svg" link="gardening"/>
   <button />
 </row>
 <row>
