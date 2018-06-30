@@ -33,7 +33,7 @@
   <button text="it" image="/images/descriptive_position/bottom.svg"/>
   <button />
   <button />
-  <button text="Kitchen equipment" image="/images/kitchen_items/place_setting.svg" style="cell-color:yellow"/>
+  <button text="Kitchen equipment" image="/images/kitchen_items/place_setting.svg" style="cell-color:yellow" link="/things/kitchen_things"/>
   <button text="Don't burn it" image="/images/medical_conditions/burn.svg" style="cell-color:lightgrey"/>
 </row>
 </keyboard>

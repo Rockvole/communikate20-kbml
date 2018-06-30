@@ -13,7 +13,7 @@
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
   <button text="I need the toilet" image="/images/communication_conversation/need_toilet.svg" />
   <button text="I need some help" image="/images/people_profession/care_assistant_2b.svg" />
-  <button text="I don't feel well" image="/images/medical_conditions/stomach_ache.svg" link="not_well" style="cell-color:yellow" />
+  <button text="I don't feel well" image="/images/medical_conditions/stomach_ache.svg" link="not_well" operation="say" style="cell-color:yellow" />
   <button text="body parts" image="/images/healthcare_body/body_outline.svg" style="cell-color:yellow" link="body_parts" />
 </row>
 <row>
