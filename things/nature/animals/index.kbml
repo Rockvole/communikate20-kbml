@@ -16,7 +16,7 @@
   <button />
   <button text="Birds" image="/images/animal_birds/parrot.svg" link="birds"/>
   <button text="Insects" image="/images/animal_insects/spider.svg" link="insects"/>
-  <button text="Pet care" image="/images/animal_activity/comb_animal_,_to.svg" />
+  <button text="Pet care" image="/images/animal_activity/comb_animal_,_to.svg" link="pet_care"/>
   <button />
 </row>
 <row>
