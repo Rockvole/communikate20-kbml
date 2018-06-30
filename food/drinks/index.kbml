@@ -21,7 +21,7 @@
 </row>
 <row>
   <button text="juice" image="/images/drink_type/drink.svg" link="juice"/>
-  <button text="smoothie" image="/images/drink_type/milkshake.svg" link="smoothie"/>
+  <button text="smoothie" image="/images/drink_type/milkshake.svg" link="/food/flavours"/>
   <button text="milkshake" image="/images/drink_type/milkshake.svg" link="milkshake"/>
   <button text="fizzy drink" image="/images/drink_type/drink.svg" link="fizzy" />
   <button text="alcohol" image="/images/drink_type/wine.svg" link="alcohol"/>
