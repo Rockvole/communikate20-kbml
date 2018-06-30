@@ -7,16 +7,16 @@
 </row>
 <row>
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
-  <button text="Pets" image="/images/animal_mammal/dog.svg" link="pets"/>
-  <button text="Farm animals" image="/images/animal_habitat/chicken_house.svg" link="farm"/>
-  <button text="Wild animals" image="/images/animal_mammal/lion.svg" link="wild"/>
-  <button text="Water animals" image="/images/animal_fish/dolphin.svg" link="water"/>
+  <button text="insect" image="/images/animal_insects/spider.svg" />
+  <button text="caterpillar" image="/images/animal_insects/caterpillar.svg" />
+  <button text="slug" image="/images/animal_crustacean/slug.svg" />
+  <button text="snail" image="/images/animal_crustacean/snail.svg" />
 </row>
 <row>
+  <button text="bee" image="/images/animal_insects/wasp.svg" />
+  <button text="fly" image="/images/animal_insects/fly.svg" />
+  <button text="spider" image="/images/animal_insects/spider.svg" />
   <button />
-  <button text="Birds" image="/images/animal_birds/parrot.svg" link="birds"/>
-  <button text="Insects" image="/images/animal_insects/spider.svg" link="insects"/>
-  <button text="Pet care" image="/images/animal_activity/comb_animal_,_to.svg" />
   <button />
 </row>
 <row>
