@@ -7,16 +7,16 @@
 </row>
 <row>
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
-  <button text="Pets" image="/images/animal_mammal/dog.svg" link="pets"/>
-  <button text="Farm animals" image="/images/animal_habitat/chicken_house.svg" link="farm"/>
-  <button text="Wild animals" image="/images/animal_mammal/lion.svg" link="wild"/>
-  <button text="Water animals" image="/images/animal_fish/dolphin.svg" link="water"/>
+  <button text="water animal" image="/images/animal_fish/dolphin.svg" />
+  <button text="fish" image="/images/animal_fish/fish.svg" />
+  <button text="whale" image="/images/animal_fish/killer_whale.svg" />
+  <button text="prawn" image="/images/animal_crustacean/prawn.svg" />
 </row>
 <row>
-  <button />
-  <button text="Birds" image="/images/animal_birds/parrot.svg" />
-  <button text="Insects" image="/images/animal_insects/spider.svg" />
-  <button text="Pet care" image="/images/animal_activity/comb_animal_,_to.svg" />
+  <button text="crab" image="/images/animal_crustacean/crab.svg" />
+  <button text="dolphin" image="/images/animal_fish/dolphin.svg" />
+  <button text="jellyfish" image="/images/animal_invertebrates/jellyfish.svg" />
+  <button text="tropical" image="/images/animal_fish/fish_tropical.svg" />
   <button />
 </row>
 <row>
