@@ -10,7 +10,7 @@
 </row>
 <row>
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
-  <button text="I have pain in my" image="/images/healthcare_body/body_outline.svg" style="cell-color:yellow" />
+  <button text="I have pain in my" operation="say" image="/images/healthcare_body/body_outline.svg" style="cell-color:yellow" link="/personal_care/body_parts"/>
   <button text="I feel" image="/images/people_feelings/sad_man.svg" style="cell-color:cyan" />
   <button text="headache" image="/images/medical_conditions/headache.svg" />
   <button text="ouch" image="/images/medical_conditions/cut.svg" style="cell-color:lightgrey"/>

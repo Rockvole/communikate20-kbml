@@ -13,7 +13,7 @@
   <button text="jumper" image="/images/clothes_general/jumper.svg"/>
 </row>
 <row>
-  <button text="colours" image="/images/art_colour/colour.svg"/>
+  <button text="colours" image="/images/art_colour/colour.svg" style="cell-color:cyan;" link="/describing/colours"/>
   <button text="skirt" image="/images/clothes_general/skirt.svg" />
   <button text="dress" image="/images/clothes_general/dress.svg" />
   <button text="swimming things" image="/images/clothes_sport/swimming_costume.svg" />
