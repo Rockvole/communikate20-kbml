@@ -30,9 +30,9 @@
   <button text="should" style="font-size:22;font-weight:bold;" />
 </row>
 <row>
-  <button text="How are you?" image="/images/people_descriptive/funny_laugh.svg" style="cell-color:pink"/>
+  <button text="How are you?" image="/images/people_descriptive/funny_laugh.svg" />
   <button text="What have you been doing?" image="/images/work_subjects/group_work.svg"/>
-  <button text="What do you think?" image="/images/descriptive_direction/point_,_to.svg" style="cell-color:orchid"/>
+  <button text="What do you think?" image="/images/descriptive_direction/point_,_to.svg" />
   <button text="What's next?" image="/images/descriptive_position/next.svg" />
   <button text="What's that?" image="/images/descriptive_shape/triangle_equilateral.svg" />
 </row>

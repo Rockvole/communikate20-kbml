@@ -25,7 +25,7 @@
 </row>
 <row>
   <button text="Halloween" image="/images/celebration_event/Halloween.svg" />
-  <button text="Christmas" image="/images/religion_festival/Christmas.svg" />
+  <button text="Christmas" image="/images/religion_festival/Christmas.svg" link="christmas"/>
   <button text="party" image="/images/celebration_event/party_celebration.svg" />
   <button />
   <button />

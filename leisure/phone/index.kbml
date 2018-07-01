@@ -11,13 +11,13 @@
 <row>
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;" operation="home"/>
   <button text="Hello" say="Hello my name is x I use a communication aid to speak. Please give me time to generate what I need to say" />
-  <button text="Chatting" image="/images/communication_conversation/hello.svg" />
-  <button text="I want to ask you something" image="/images/question/how.svg" style="cell-color:orange;" />
-  <button text="Call me" image="/images/electrical_phone/mobile_phone.svg" style="cell-color:red" />
+  <button text="Chatting" image="/images/communication_conversation/hello.svg" link="/chatting"/>
+  <button text="I want to ask you something" operation="say" image="/images/question/how.svg" style="cell-color:orange;" link="/questions"/>
+  <button text="Call me" image="/images/electrical_phone/mobile_phone.svg" />
 </row>
 <row>
   <button text="I need to check my credit" image="/images/money/money.svg" />
-  <button text="I'd like to call" image="/images/work_timetable/assembly.svg" style="cell-color:goldenrod;" />
+  <button text="I'd like to call" operation="say" image="/images/work_timetable/assembly.svg" style="cell-color:goldenrod;" link="/people"/>
   <button style="cell-color:white;" />
   <button text="speak soon" image="/images/communication_conversation/hello.svg" />
   <button text="Take care" image="/images/healthcare_body/thumbs.svg"/>
