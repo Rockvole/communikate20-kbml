@@ -13,7 +13,7 @@
   <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;color:black;" operation="home"/>
   <button text="place" image="/images/science_astronomy/Earth.svg" />
   <button text="My day places" image="/images/building_school/school.svg" />
-  <button text="shops" image="/images/building_shop/shop_2.svg" />
+  <button text="shops" image="/images/building_shop/shop_2.svg" link="shops" />
   <button text="places outside" image="/images/descriptive_position/outside.svg" link="outside"/>
 </row>
 <row>
