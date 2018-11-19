@@ -7,35 +7,35 @@
 <row>
   <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
   <input colspan="2" style="cell-color:white"/>
-  <button text="Speak" style="font-size:22;cell-color:white" operation="speak" />
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
   <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
 </row>
 <row>
-  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;font-size:18" operation="home"/>
-  <button text="a" operation="nospace" />
-  <button text="b" operation="nospace" />
-  <button text="c" operation="nospace" />
-  <button text="d" operation="nospace" />
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;font-size:18" action="home"/>
+  <button text="a" action="nospace" />
+  <button text="b" action="nospace" />
+  <button text="c" action="nospace" />
+  <button text="d" action="nospace" />
 </row>
 <row>
-  <button text="Backspace" style="cell-color:powderblue" operation="backspace"/>
-  <button text="e" operation="nospace" />
-  <button text="f" operation="nospace" />
-  <button text="g" operation="nospace" />
-  <button text="h" operation="nospace" />
+  <button text="Backspace" style="cell-color:powderblue" action="backspace"/>
+  <button text="e" action="nospace" />
+  <button text="f" action="nospace" />
+  <button text="g" action="nospace" />
+  <button text="h" action="nospace" />
 </row>
 <row>
   <button text="N - Z" style="cell-color:cyan" link="nz.kbml"/>
-  <button text="i" operation="nospace" />
-  <button text="j" operation="nospace" />
-  <button text="k" operation="nospace" />
-  <button text="l" operation="nospace" />
+  <button text="i" action="nospace" />
+  <button text="j" action="nospace" />
+  <button text="k" action="nospace" />
+  <button text="l" action="nospace" />
 </row>
 <row>
-  <button text="Clear" style="cell-color:powderblue" operation="clear"/>
-  <button text="m" operation="nospace" />
-  <button text="Space" say=" " image="/images/electrical_computer/computer_keyboard.svg" operation="nospace" />
-  <button text="Shift" operation="nospace" />
-  <button text="?" operation="nospace" />
+  <button text="Clear" style="cell-color:powderblue" action="clear"/>
+  <button text="m" action="nospace" />
+  <button text="Space" say=" " image="/images/electrical_computer/computer_keyboard.svg" action="nospace" />
+  <button text="Shift" action="nospace" />
+  <button text="?" action="nospace" />
 </row>
 </keyboard>

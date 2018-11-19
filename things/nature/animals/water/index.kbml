@@ -2,11 +2,11 @@
 <row>
   <button text="Yes" style="cell-color:white" image="/images/descriptive_state/correct.svg"/>
   <input colspan="2" style="cell-color:white"/>
-  <button text="Speak" style="font-size:22;cell-color:white" operation="speak" />
+  <button text="Speak" style="font-size:22;cell-color:white" action="speak" />
   <button text="No" style="cell-color:white" image="/images/descriptive_state/mistake_no_wrong.svg"/>
 </row>
 <row>
-  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" operation="home"/>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow" action="home"/>
   <button text="water animal" image="/images/animal_fish/dolphin.svg" />
   <button text="fish" image="/images/animal_fish/fish.svg" />
   <button text="whale" image="/images/animal_fish/killer_whale.svg" />

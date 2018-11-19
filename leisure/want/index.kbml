@@ -5,11 +5,11 @@
 <row>
   <button text="Yes" style="cell-color:white;color:black;" image="/images/descriptive_state/correct.svg"/>
   <input colspan="2" style="cell-color:white;color:black;"/>
-  <button text="Speak" style="font-size:22;cell-color:white;color:black;" operation="speak" />
+  <button text="Speak" style="font-size:22;cell-color:white;color:black;" action="speak" />
   <button text="No" style="cell-color:white;color:black;" image="/images/descriptive_state/mistake_no_wrong.svg"/>
 </row>
 <row>
-  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;" operation="home"/>
+  <button text="Top Page" image="/images/communication_aid/communication_aid_2.svg" style="cell-color:yellow;" action="home"/>
   <button text="to go outside" image="/images/descriptive_position/outside.svg" />
   <button text="to call someone" image="/images/electrical_phone/mobile_phone.svg" />
   <button text="to sit down" image="/images/electrical_computer/sit_at_computer_,_to_2.svg" />
